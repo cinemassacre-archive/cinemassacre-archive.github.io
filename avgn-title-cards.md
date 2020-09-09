@@ -6,8 +6,8 @@ permalink: /avgn/title-cards
 <h1 class="center">AVGN Title Cards</h1>
   <div class="gallery">
     <div class="tile">
-      <a href="/assets/images/avgn/title-cards/episode-4.png" data-caption="Episode 4: Who Framed Roger Rabbit? (Created for rerevisited, no original)">
-        <img src="/assets/images/avgn/title-cards/episode-4.png">
+      <a href="/assets/images/avgn/title-cards/episode-4.jpg" data-caption="Episode 4: Who Framed Roger Rabbit? (Created for rerevisited, no original)">
+        <img src="/assets/images/avgn/title-cards/episode-4.jpg">
       </a>
       <div class="desc">Episode 4: Who Framed Roger Rabbit?<br>(Created later, no original)</div>
     </div>
