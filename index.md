@@ -20,6 +20,6 @@ On the topic of old thumbnails:
 
 I don't care much about the thumbnails, but I know some do, so I ran a script to try to grab them from the Wayback Machine, but the results there varied as the script was not exactly sophisticated or any good.
 
-For some I think I got all of the old thumbnails. For others I got nothing. I'm still in the process of sorting through those, but once they're up if someone else wants to go back through to help get the few that are missing, send them along, and I'll include them.
+For some I think I got all of the old thumbnails. For others I got nothing. I'm still in the process of sorting through those, but once they're up if someone else wants to go back through to help get the ones that are missing, send them along, and I'll include them.
 
 The issue is that actually going through and getting all of them would be a very tedious job, so I don't think I'll be doing it. Plus, the end result would mostly just be random frames that YouTube selected, box art, and in some cases James or Mike holding the cartridge in front of the camera. I'm not convinced much of anyone would even look at them or care.
