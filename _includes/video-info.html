@@ -1,0 +1,60 @@
+<div class="center">
+
+  {% if page.episode %}
+    <h1><span class="gold">{{ page.series }}<br>Episode {{ page.episode }}</span><br>{{ page.title }}</h1>
+  {% endif %}
+
+  <p><span class="gold">Release date:</span><br>{{ page.release_date | date: '%B %-d, %Y'}}</p>
+
+  {% if page.youtube_date %}
+    <p><span class="gold">YouTube release date:</span><br>{{ page.youtube_date | date: '%B %-d, %Y' }}</p>
+  {% endif %}
+
+  {% if page.previous_titles %}
+  <p><span class="gold">Earlier titles:</span></p> 
+  {% for item in page.previous_titles %}
+    <p>{{ item }}</p>
+  {% endfor %}
+  {% endif %}
+
+  {% if page.platforms %}
+
+  <p class="platforms-covered">Platforms covered:</p>
+
+  {% for platform in page.platforms %}
+
+  <li>{{ platform }}</li>
+
+  {% endfor %}
+  {% endif %}
+  {% if page.games %}
+
+  <p class="games-covered">Games covered:</p>
+
+  {% for game in page.games %}
+
+  <li>{{ game }}</li>
+
+  {% endfor %}
+  {% endif %}
+  {% if page.video_id %}
+  <p class="gold">YouTube version:</p>
+    <iframe class="video" src="https://www.youtube.com/embed/{{ page.video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  {% endif %}
+
+  {% if page.ra_video_id %}
+  <p class="gold">YouTube "review archive" version:</p>
+    <iframe class="video" src="https://www.youtube.com/embed/{{ page.ra_video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  {% endif %}
+
+  {% if page.alt_video_id %}
+    <p class="gold">Higher quality reupload:</p>
+    <iframe class="video" src="https://www.youtube.com/embed/{{ page.alt_video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  {% endif %}
+
+  {% if page.drive_id %}
+    <p class="gold">ScrewAttack version:</p>
+    <iframe class="video" src="https://drive.google.com/file/d/{{ page.drive_id }}/preview"></iframe>
+  {% endif %}
+
+</div>

@@ -1,0 +1,14 @@
+<head>
+  <title>
+    {% if page.layout == "video" %}
+      {{ page.series }} Episode {{ page.episode }}: {{ page.title }}
+    {% else %}{{ page.title }}
+    {% endif %}
+  </title>
+  {% if page.layout == "gallery" %}
+  <script src="/assets/js/baguetteBox.js" async></script>
+  <link rel="stylesheet" type="text/css" href="/assets/css/baguetteBox.css">
+  {% endif %}  
+  <link rel='stylesheet' type='text/css' href='/assets/css/styles.css'>
+  <meta charset="utf-8"/>
+</head>

@@ -1,0 +1,33 @@
+sass:
+  sass_dir: /assets/css/
+
+markdown: kramdown
+
+include:
+  - _avgn
+  - _board-james
+  - _cinemassacre-reviews
+  - _james-and-mike
+  - _mike-and-bootsy
+  - _mike-and-ryan
+  - _monster-madness
+  - _rental-reviews
+  - _ykwbs
+  - _videos
+  - _old-news
+
+collections:
+  avgn:
+    output: true
+  ykwbs:
+    output: true
+  james-and-mike:
+    output: true
+  mike-and-ryan:
+    output: true
+  mike-and-bootsy:
+    output: true
+  board-james:
+    output: true
+  old-news:
+    output: true
