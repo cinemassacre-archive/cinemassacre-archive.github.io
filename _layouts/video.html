@@ -124,13 +124,15 @@ layout: default
 
 {{ content }}
 
+{{ page.collection }}
+
 {% if page.title-cards != null %}
 <p class="gold">Title card(s):</p>
   <div>
     {% assign widthtotal = page.title-cards | size %}
     {% assign widthtotal = 100 | divided_by: widthtotal %}
     {% for card in page.title-cards %}
-    <a href="/assets/images/avgn/title-cards/{{ card }}"><img src="/assets/images/avgn/title-cards/{{ card }}" style="max-width: {{ widthtotal }}%;"></a>
+    <a href="/assets/images/{{ page.collection }}/title-cards/{{ card }}"><img src="/assets/images/{{ page.collection }}/title-cards/{{ card }}" style="max-width: {{ widthtotal }}%;"></a>
   {% endfor %}
   </div>
 {% endif %}
