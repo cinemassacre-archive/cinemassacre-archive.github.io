@@ -4,7 +4,7 @@ permalink: /movie-posters
 title: Movie Poster Gallery
 ---
 
-<h1 class="center">Cinemassacre Movie Poster Gallery</h1>
+<h1 class="center">Cinemassacre Poster Gallery</h1>
 
 <p>This page will populate as video pages are completed. A few aren't in here yet.</p>
 

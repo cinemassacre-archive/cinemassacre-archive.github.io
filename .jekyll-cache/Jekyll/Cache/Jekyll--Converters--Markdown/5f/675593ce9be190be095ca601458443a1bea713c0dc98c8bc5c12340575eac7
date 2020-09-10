@@ -1,52 +1,4 @@
-<!DOCTYPE HTML>
-<html lang="en">
-<head>
-  <title>
-    Movie Poster Gallery
-    
-  </title>
-  
-  <script src="/assets/js/baguetteBox.js" async></script>
-  <link rel="stylesheet" type="text/css" href="/assets/css/baguetteBox.css">
-    
-  <link rel='stylesheet' type='text/css' href='/assets/css/styles.css'>
-  <meta charset="utf-8"/>
-</head>
-  <body>
-    <nav id="nav">
-  <ul class="menubar">
-    <li><a href="/">Home</a></li>
-    <li>Videos
-        <ul>
-            <li><a href="/video-index">Video Index</a></li>
-            <li><a href="/avgn-index">AVGN</a></li>
-            <li><a href="/board-james-index">Board James</a></li>
-            <li><a href="/james-and-mike-index">James and Mike</a></li>
-            <li><a href="/mike-and-bootsy-index">Mike and Bootsy</a></li>
-        </ul>
-    </li>
-    <li>Site Posts
-        <ul>
-            <li><a href="/blog">Blog</a></li>
-            <li>Other</a></li>
-        </ul>
-    </li>
-    <li>Galleries
-        <ul>
-            <li><a href="/avgn/title-cards">AVGN Title Cards</a></li>
-            <li><a href="/board-james/title-cards">Board James Title Cards</a></li>
-            <li><a href="/movie-posters">Movie Posters</a></li>
-            <li>Fan Art</li>
-            <li>Other</li>
-        </ul>
-  </ul>
-</nav>
-    <script>
-  window.addEventListener('load', function() {
-    baguetteBox.run('.gallery');
-  });
-</script>
-    <h1 class="center">Cinemassacre Poster Gallery</h1>
+I"Ý<h1 class="center">Cinemassacre Poster Gallery</h1>
 
 <p>This page will populate as video pages are completed. A few aren't in here yet.</p>
 
@@ -323,7 +275,4 @@
   
 
 </div>
-
-    <footer>This archive is unoffical and run by a fan of Cinemassacre. <a href="mailto:archivecinemassacre@gmail.com">Contact the Archivist</a></footer>
-  </body>
-</html>
+:ET
