@@ -9,6 +9,7 @@ cast:
 video_id: 
 bitchute_id: 
 archive_id: 
+poster: freaky-freak-show.jpg
 video_available: false
 medium: music video
 old_cm_description: |

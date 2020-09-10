@@ -13,6 +13,7 @@ video_id: XhzH6k6B8og
 video_id_info: (trailer)
 bitchute_id: XbWMI5dKfgQQ/
 archive_id: 
+poster: rumble-in-the-jungle.jpg
 video_available: true
 medium: live action
 old_cm_description: |

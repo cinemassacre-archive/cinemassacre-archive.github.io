@@ -15,6 +15,7 @@ video_id: 7ixLF0cP9WY
 video_id_info: (highlights)
 bitchute_id: ZfI67Bil2UDC/
 archive_id: 
+poster: droppings.jpg
 video_available: true
 medium: live action
 old_cm_description: |

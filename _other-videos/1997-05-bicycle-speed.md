@@ -12,6 +12,7 @@ cast:
 video_id: phDbMl1Q9EU
 bitchute_id: 
 archive_id: 
+poster: bicycle-speed.jpg
 video_available: true
 medium: live action
 old_cm_description: |

@@ -9,6 +9,7 @@ cast:
 video_id: IlmeZ1EjOqQ
 bitchute_id: lIJqoask7M3r/
 archive_id: 
+poster: snix-6.jpg
 video_available: true
 medium: live action
 old_cm_description: |

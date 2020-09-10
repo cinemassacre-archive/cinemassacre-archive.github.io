@@ -9,6 +9,7 @@ cast:
 video_id: nrVLKXaOR6o
 bitchute_id: DT6L6aTBcNZr/
 archive_id: 
+poster: the-atmos-fear-ic-garage-of-the-supernatural.jpg
 video_available: true
 medium: live action
 old_cm_description: |

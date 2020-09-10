@@ -10,6 +10,7 @@ video_id: 4Voz-InyODY
 video_id_info: (commentary)
 bitchute_id: 2ms3y00IJBvG/
 archive_id: 
+poster: red-zombie.jpg
 video_available: true
 medium: live action
 old_cm_description: |

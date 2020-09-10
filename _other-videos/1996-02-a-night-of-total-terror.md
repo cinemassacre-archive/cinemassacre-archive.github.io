@@ -21,6 +21,7 @@ video_id: bmnLPGQd9-A
 video_id_info: (2006 re-edit)
 bitchute_id: 
 archive_id: 
+poster: a-night-of-total-terror.jpg
 video_available: true
 medium: live action
 old_cm_description: |

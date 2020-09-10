@@ -9,6 +9,7 @@ cast:
 video_id: 
 bitchute_id: 
 archive_id: 
+poster: mighty-joe-rampage.jpg
 video_available: false
 medium: live action
 old_cm_description: |

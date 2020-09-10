@@ -10,6 +10,7 @@ cast:
 video_id: MwW03jjVcX8
 bitchute_id: 
 archive_id: 
+poster: the-herbivore.jpg
 video_available: true
 medium: live action
 old_cm_description: |
