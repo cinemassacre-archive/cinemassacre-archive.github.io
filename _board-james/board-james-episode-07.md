@@ -10,7 +10,8 @@ video_id: kKbCgkGDmas
 alt_video_id: -mpQ7_WXHd8
 release_date: 2010-05-11
 thumbnails:
-title_card: 
+title-cards: 
+  - episode-7.png
 games:
   - Hero Quest
 ---

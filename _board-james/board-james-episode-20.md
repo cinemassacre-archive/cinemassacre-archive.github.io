@@ -9,7 +9,7 @@ permalink: /board-james/episode-20
 video_id: agWOv1KUtQc
 release_date: 2015-04-01
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Omega Virus
 current_description: |

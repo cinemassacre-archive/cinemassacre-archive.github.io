@@ -9,7 +9,7 @@ permalink: /board-james/episode-25
 video_id: IgRWCBiwY8A
 release_date: 2015-09-05
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Pac-Man (Board Game)
   - Pac-Man Magnetic Maze

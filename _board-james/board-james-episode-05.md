@@ -10,7 +10,8 @@ video_id: AfA6KxGAdOk
 alt_video_id: xYfZZBIQkr8
 release_date: 2010-01-18
 thumbnails:
-title_card: 
+title-cards: 
+  - episode-5.png
 games:
   - Fireball Island
 current_description: |

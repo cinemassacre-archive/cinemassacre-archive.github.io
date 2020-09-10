@@ -9,7 +9,7 @@ permalink: /board-james/episode-22
 video_id: nRLlm32pQbw
 release_date: 2015-06-01
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Ouija
   - Domino Rally

@@ -9,7 +9,7 @@ permalink: /board-james/episode-13
 video_id: lOgi3W3sgcs
 release_date: 2011-09-09
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Loopin' Louie  
 ---

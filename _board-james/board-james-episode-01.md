@@ -10,7 +10,8 @@ video_id: AZCplp_AtRo
 alt_video_id: WrXjo9saurg
 release_date: 2009-04-14
 thumbnails: 
-title_card: 
+title-cards: 
+  - episode-1.jpg
 games:
   - Mouse Trap
 current_description: |

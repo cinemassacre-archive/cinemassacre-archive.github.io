@@ -10,7 +10,8 @@ video_id: tlfAQ33YE1A
 alt_video_id: tIUpew7vcfk
 release_date: 2011-06-10
 thumbnails:
-title_card: 
+title-cards: 
+  - episode-11.png
 games:
   - Key to the Kingdom  
 ---

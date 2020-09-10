@@ -10,7 +10,8 @@ video_id: _wibltmswYU
 alt_video_id: W9hW5gVaNJo
 release_date: 2009-07-17
 thumbnails:
-title_card: 
+title-cards: 
+  - episode-3.png
 games:
   - Crossfire
 current_description: |

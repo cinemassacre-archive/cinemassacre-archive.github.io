@@ -10,7 +10,8 @@ video_id: kTKXLasBglc
 alt_video_id: lc_oHp4BbZY
 release_date: 2011-11-24
 thumbnails:
-title_card: 
+title-cards: 
+  - episode-15.png
 games:
   - Battle Masters
 current_description: |

@@ -10,7 +10,7 @@ video_id: c0fgQnyv8D8
 alt_video_id: VFGuYzRjWs0
 release_date: 2011-05-24
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Teenage Mutant Ninja Turtles Cowabunga Pizza Toss Tic-Tac-Toe
   - Teenage Mutant Hero Turtles Search for Shredder

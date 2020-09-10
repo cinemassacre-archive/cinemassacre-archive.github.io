@@ -10,7 +10,8 @@ video_id: Xj15OUPuF8Q
 alt_video_id: 6Lvf1SAN538
 release_date: 2010-09-15
 thumbnails:
-title_card: 
+title-cards: 
+  - episode-9.png
 games:
   - Tornado Rex
 bootsy_music: b4Oe63tZj1I  

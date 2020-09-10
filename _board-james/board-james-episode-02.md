@@ -10,7 +10,8 @@ video_id: PDF9mAHSWZg
 alt_video_id: OjF46MyiSu0
 release_date: 2009-05-27
 thumbnails:
-title_card: 
+title-cards: 
+  - episode-2.png
 games:
   - DragonStrike  
 ---

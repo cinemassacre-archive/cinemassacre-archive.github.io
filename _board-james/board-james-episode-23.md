@@ -9,7 +9,7 @@ permalink: /board-james/episode-23
 video_id: b80V09f3Kok
 release_date: 2015-07-03
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Wacky Blasters
 current_description: |

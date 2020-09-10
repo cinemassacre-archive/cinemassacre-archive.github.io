@@ -9,7 +9,8 @@ permalink: /board-james/episode-4
 video_id: S22FFetltbE
 alt_video_id: 4U_lo4RdvvQ
 release_date: 2009-09-08
-title_card: 
+title-cards: 
+  - episode-4.jpg
 thumbnails:
 games:
   - Weapons and Warriors

@@ -10,7 +10,8 @@ video_id: oQRUL2r-4ts
 alt_video_id: EuLcjD0AmPM
 release_date: 2010-04-07
 thumbnails:
-title_card: 
+title-cards: 
+  - episode-6.jpg
 games:
   - Deadly Danger Dungeon
 current_description: |

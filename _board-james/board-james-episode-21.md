@@ -9,7 +9,7 @@ permalink: /board-james/episode-21
 video_id: vTnG3hrSGS0
 release_date: 2015-05-03
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Lie Detector
 current_description: |

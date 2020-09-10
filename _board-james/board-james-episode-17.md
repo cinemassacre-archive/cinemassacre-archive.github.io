@@ -9,7 +9,7 @@ permalink: /board-james/episode-17
 video_id: UQ3-JAAgbP8
 release_date: 2012-01-25
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Doggie Doo
 current_description: |

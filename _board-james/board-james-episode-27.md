@@ -9,7 +9,7 @@ permalink: /board-james/episode-27
 video_id: nSD2pToV8qA
 release_date: 2015-12-04
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Nightmare
   - Operation

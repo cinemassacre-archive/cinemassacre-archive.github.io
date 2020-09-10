@@ -9,7 +9,7 @@ permalink: /board-james/episode-24
 video_id: _WWkIVxoUAU
 release_date: 2015-08-04
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Full House Board Game
   - Do the Urkel!  

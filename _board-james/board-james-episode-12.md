@@ -10,7 +10,7 @@ video_id: eJo0C71lO8o
 alt_video_id: IYXdnS_hFAs
 release_date: 2011-08-17
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Donut Disaster
 bootsy_music: 

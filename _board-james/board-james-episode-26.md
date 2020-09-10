@@ -9,7 +9,7 @@ permalink: /board-james/episode-26
 video_id: 5amFRDngyHs
 release_date: 2015-11-01
 thumbnails: 
-title_card: 
+title-cards: 
 games:
   - 13 Dead End Drive
 current_description: |

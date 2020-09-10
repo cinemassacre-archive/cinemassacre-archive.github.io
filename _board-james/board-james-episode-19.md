@@ -10,7 +10,7 @@ video_id: gzWtnyhdn_4
 commentary_video_id: -Fn7OKqgJUo
 release_date: 2013-04-01
 thumbnails:
-title_card: 
+title-cards: 
 games:
   - Dream Phone
 current_description: |
