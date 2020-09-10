@@ -13,7 +13,7 @@ include:
   - _monster-madness
   - _rental-reviews
   - _ykwbs
-  - _videos
+  - _other-videos
   - _old-news
 
 collections:
@@ -30,4 +30,6 @@ collections:
   board-james:
     output: true
   old-news:
+    output: true
+  other-videos:
     output: true

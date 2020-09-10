@@ -1,0 +1,239 @@
+* {
+    background-color: rgb(27, 25, 25);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    margin-bottom: 100px;
+    min-height: 400px;
+    clear: both;
+    line-height: 1.25em;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+footer {
+    position: fixed;
+    bottom: 10px;
+    font-size: 14px;
+    right: 10px;
+    padding: 2px;
+    margin: 2px;
+    padding-bottom: 0px;
+    border: #444 solid 2px;
+}
+
+textarea {
+    height: 200px;
+    width: 400px;
+}
+
+table {
+    border-collapse:collapse;
+}
+
+table, th, td {
+    border: 1px solid gray;
+    padding: 2px;
+}
+
+div.tile {
+    margin: 5px;
+    border: 1px solid #444;
+    float: left;
+    padding: auto;
+    padding-bottom: 10px;
+    width: 30%;
+    height: 400px;
+}
+
+@media screen and (max-width: 1024px){
+    div.tile {
+        height: 300px;    
+    }
+}
+
+@media screen and (max-width: 720px){
+    div.tile {
+        height: 260px;
+    }
+}
+
+a {
+    color: gold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+h1 {
+    line-height: 1.1em;
+}
+
+div.tile:hover {
+    border: 1px solid #fff;
+}
+  
+div.tile img {
+    width: 100%;
+    height: auto;
+    max-height: 80%;
+}
+ 
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+hr {
+    border-color: gold;
+}
+
+.top-link {
+    font-size: 12px;
+}
+
+.notes {
+    color: gold;
+}
+
+.gold {
+    color: gold;
+}
+
+.center {
+    text-align: center;
+}
+
+.video {
+    width: 640px;
+    height: 360px;
+}
+
+li {
+    list-style: none;
+}
+
+.menubar li a {
+    display: block;
+}
+
+.menubar {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    text-align: center;
+}
+
+
+.menubar li {
+	display: block;
+	float: left;
+	width: 100px;
+    border: #444 solid 2px;
+    padding: 3px;
+    margin: 4px;
+}
+
+.menubar li:hover {
+    background: #000;
+}
+
+.menubar li ul {
+	visibility: hidden;
+    position: absolute;
+    margin-top: 5px;
+}
+
+.menubar li:hover ul {
+	visibility: visible;
+    padding-left: 0;
+    margin-left: -7px;
+}
+
+.menubar li ul li {
+    float: none;
+    position: relative;
+    width: 150px;
+    text-align: left;
+}
+
+.mikes-notes {
+  color: gold;
+}
+
+.cinemassacre-description {
+  color: gold;
+}
+
+.yt-description {
+  color: gold;
+}
+
+.ttc {
+  /* For the thumbnails and title card text listed on episode pages.*/
+  color: gold;
+}
+
+.games-covered {
+  color: gold;
+}
+
+.platforms-covered {
+  color: gold;
+}
+
+table {
+  width: 100%;
+}
+
+.table-head{
+  font-weight: bold !important;
+}
+
+.index-episode-number {
+  width: 5%;
+}
+
+.index-episode-title {
+  width: 33%;
+}
+
+.index-release-date {
+  width: 20%;
+}
+
+.index-platforms {
+}
+
+.index-games {
+  width: 30%;
+}
+
+.index-episode-title-rows {
+  padding: 5px 25px 5px 25px;
+  text-align: left;
+}
+
+.lighter {
+  font-weight: lighter;
+}
+
+.blog-bg {
+  border: #444 solid 2px;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.blog-bg:hover {
+  border: rgb(255, 255, 255) solid 2px;
+}

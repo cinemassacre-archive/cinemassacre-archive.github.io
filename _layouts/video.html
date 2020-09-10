@@ -23,6 +23,7 @@ layout: default
 
 {% elsif page.series == "James and Mike Mondays"%}
 {% assign episodes = site.james-and-mike %}
+
 {% endif %}
 
 {% for episode in episodes %}
@@ -34,12 +35,12 @@ layout: default
     {% assign articleIndexLength = forloop.length | minus: 1 %}
     <div class="page-navigation">
       {% if currIndex == 0 %}
-        <a class="next0" href="{{ site.url }}{{ site.baseurl }}{{ episodes[nextIndex].url }}" style="float: right;">Next Episode &raquo;</a>
+        <a class="next0" href="{{ site.url }}{{ site.baseurl }}{{ episodes[nextIndex].url }}" style="float: right;">Next Episode ►</a>
       {% elsif currIndex < articleIndexLength and currIndex != 0 %}
-        <a class="prev" href="{{ site.url }}{{ site.baseurl }}{{ episodes[prevIndex].url }}" style="float: left;">&laquo; Previous Episode</a>
-        <a class="next" href="{{ site.url }}{{ site.baseurl }}{{ episodes[nextIndex].url }}" style="float: right;">Next Episode &raquo;</a>
+        <a class="prev" href="{{ site.url }}{{ site.baseurl }}{{ episodes[prevIndex].url }}" style="float: left;">◄ Previous Episode</a>
+        <a class="next" href="{{ site.url }}{{ site.baseurl }}{{ episodes[nextIndex].url }}" style="float: right;">Next Episode ►</a>
       {% elsif currIndex == articleIndexLength %}
-        <a class="prev" href="{{ site.url }}{{ site.baseurl }}{{ episodes[prevIndex].url }}" style="float: left;">&laquo; Previous Episode</a>
+        <a class="prev" href="{{ site.url }}{{ site.baseurl }}{{ episodes[prevIndex].url }}" style="float: left;">◄ Previous Episode</a>
       {% endif %}
     </div>
   {% endif %}
