@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: video-index
+title: Cinemassacre Video Index
 ---
 
 <h1 class="center">Cinemassacre Video Index</h1>
