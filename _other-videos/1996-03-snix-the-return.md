@@ -6,8 +6,8 @@ video_number: 29
 release_date: 1996-01-01
 description: 
 cast: 
-video_id: 
-bitchute_id: 
+video_id: EhO-51yNQ_o
+bitchute_id: HU3HE8MNtOcb/
 archive_id: 
 video_available: true
 medium: live action

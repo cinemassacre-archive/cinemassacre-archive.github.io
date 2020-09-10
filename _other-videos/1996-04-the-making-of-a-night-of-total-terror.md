@@ -9,10 +9,16 @@ cast:
 video_id: 
 bitchute_id: 
 archive_id: 
-video_available: true
+video_available: false
 medium: live action
 old_cm_description: |
   The title speaks for itself. It's a documentary about the movie that changed my life.
 james_old_star_rating: 2
 james_old_number_rating: 6
+---
+
+---
+
+This video isn't available, but it was the basis of a later [video](/how-i-got-started-a-night-of-total-terror-retrospective).
+
 ---

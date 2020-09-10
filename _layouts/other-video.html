@@ -72,9 +72,10 @@ layout: default
   {% if page.james_old_number_rating != null %}
     <p class="gold">James's old number rating:</p>
     {{ page.james_old_number_rating }}/10
-  {% endif %} 
+  {% endif %}
+
   {% if page.video_id %}
-  <p class="gold">Video:</p>
+  <p class="gold">Video {% if page.video_id_info != null %}{{ page.video_id_info }}{% endif %}:</p>
     <iframe class="video" src="https://www.youtube.com/embed/{{ page.video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   {% endif %}
 
@@ -125,8 +126,13 @@ layout: default
 {% endif %}
 
 {% if page.description != null %}
-  <p class="gold">Recent Description:</p>
+  <p class="gold">Description from Cinemassacre.com:</p>
   {{ page.description | markdownify }}
+{% endif %}
+
+{% if page.yt_description != null %}
+  <p class="gold">YouTube description:</p>
+  {{ page.yt_description | markdownify }}
 {% endif %}
 
 {{ content | markdownify }}
