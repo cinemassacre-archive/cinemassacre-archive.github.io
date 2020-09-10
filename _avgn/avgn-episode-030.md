@@ -18,6 +18,8 @@ short_platforms:
 games:
   - "The Simpsons: Bart vs the Space Mutants"
   - "The Simpsons: Bart vs the World"
+title-cards:
+  - episode-30.jpg
 ---
 
 <p class="yt-description">YouTube description:</p>

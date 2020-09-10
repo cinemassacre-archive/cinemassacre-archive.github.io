@@ -10,4 +10,7 @@ drive_id: 1IvHv2gSs96-bvcyBuq7ewyiOZVAsyiAm
 release_date: 2010-09-03
 mike_notes:
 toggle: off
+title-cards:
+  - episode-94.jpg
+  - episode-94b.jpg
 ---

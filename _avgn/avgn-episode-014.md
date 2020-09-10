@@ -16,7 +16,8 @@ platforms:
   - Nintendo Entertainment System
 short_platforms:
   - NES
-title-card:
+title-cards:
+  - episode-14.jpg
 thumbnails:
 games:
   - Gloveball

@@ -10,4 +10,6 @@ drive_id: 1QPn5F6m4wXqbH_J564o0ynqlhz-2DCju
 release_date: 2009-06-17
 mike_notes:
 toggle: off
+title-cards:
+  - episode-72.jpg
 ---

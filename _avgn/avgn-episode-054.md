@@ -10,4 +10,7 @@ drive_id: 1YJLksvT320_hLsaCAgbW9Af8S_LvN5ru
 release_date: 2008-08-19
 mike_notes:
 toggle: off
+title-cards:
+  - episode-54.jpg
+  - episode-54b.jpg
 ---

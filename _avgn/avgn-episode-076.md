@@ -10,4 +10,6 @@ drive_id: 1XbsbU5cRucizfnh3oV7NRLUTGhsn-Rub
 release_date: 2009-08-20
 mike_notes:
 toggle: off
+title-cards:
+  - episode-76.jpg
 ---

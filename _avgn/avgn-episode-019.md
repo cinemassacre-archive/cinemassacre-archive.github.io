@@ -12,7 +12,7 @@ release_date: 2007-01-25
 toggle: off
 platforms: 
 thumbnails: 
-title-card: 
+title-cards: 
 games: 
 ---
 

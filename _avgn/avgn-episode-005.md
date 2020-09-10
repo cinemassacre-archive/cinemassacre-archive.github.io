@@ -15,7 +15,9 @@ platforms:
   - Nintendo Entertainment System
 short_platforms:
   - NES
-title-card: /assets/images/avgn/title-cards/episode5b.jpg
+title-cards:
+  - episode-5.jpg
+  - episode-5b.jpg
 thumbnails:
   - /assets/images/avgn/thumbnails/episode-5-1.jpg
   - /assets/images/avgn/thumbnails/episode-5-2.jpg

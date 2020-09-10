@@ -16,6 +16,8 @@ short_platforms:
   - NES
 games:
   - Silver Surfer
+title-cards:
+  - episode-27.jpg
 ---
 
 <p class="yt-description">YouTube description:</p>

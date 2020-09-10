@@ -15,7 +15,8 @@ platforms:
 short_platforms:
   - NES
 thumbnails: 
-title-card: 
+title-cards: 
+  - episode-21.jpg
 games: 
   - Ghostbusters (NES)
 ---

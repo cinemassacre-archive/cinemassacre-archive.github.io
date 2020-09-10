@@ -14,7 +14,9 @@ platforms:
 short_platforms:
   - Master System
 thumbnails: 
-title-card: 
+title-cards: 
+  - episode-16.jpg
+  - episode-16b.jpg
 games: 
   - Rocky
 ---

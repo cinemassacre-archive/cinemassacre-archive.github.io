@@ -16,6 +16,8 @@ short_platforms:
   - PS1
 games:
   - Independence Day
+title-cards:
+  - episode-29.jpg
 ---
 
 <p class="yt-description">YouTube description</p>

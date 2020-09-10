@@ -15,7 +15,7 @@ platforms:
 short_platforms:
   - NES
 thumbnails: 
-title-card: 
+title-cards: 
 games: 
   - Bible Adventures
   - Noah's Ark

@@ -17,7 +17,8 @@ platforms:
   - Nintendo Entertainment System
 short_platforms:
   - NES
-title-card:
+title-cards:
+  - episode-13.jpg
 thumbnails:
 games:
   - A Nightmare on Elm Street

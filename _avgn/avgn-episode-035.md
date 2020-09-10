@@ -18,6 +18,8 @@ short_platforms:
   - Atari 2600
 games:
   - The Texas Chainsaw Massacre
+title-cards:
+  - episode-35.jpg
 ---
 
 <p class="yt-description">YouTube description</p>

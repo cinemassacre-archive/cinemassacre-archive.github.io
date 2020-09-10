@@ -16,6 +16,8 @@ short_platforms:
   - NES
 games:
   - "Home Alone 2: Lost in New York"
+title-cards:
+  - episode-38.jpg
 ---
 
 <p class="yt-description">YouTube description:</p>

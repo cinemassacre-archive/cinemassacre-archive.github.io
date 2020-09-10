@@ -23,5 +23,7 @@ games:
   - Cathouse Blues
   - Knight on the Town
   - Jungle Fever
+title-cards:
+  - episode-32.jpg
 ---
 

@@ -16,7 +16,8 @@ platforms:
   - Nintendo Entertainment System
 short_platforms:
   - NES
-title-card:
+title-cards:
+  - episode-8.jpg
 thumbnails:
 games:
   - Wally Bear and the NO! Gang

@@ -34,6 +34,8 @@ games:
   - Wonder Dog
   - Sewer Shark
   - Sonic CD
+title-cards:
+  - episode-25.jpg
 ---
 
 <p class="mikes-notes">Mike's notes:</p>

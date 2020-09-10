@@ -17,7 +17,9 @@ short_platforms:
   - NES
   - Genesis
 thumbnails: 
-title-card: 
+title-cards: 
+  - episode-23a.png
+  - episode-23b.jpg
 games:
   - Ghostbusters II
   - Ghostbusters (Genesis)

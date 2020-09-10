@@ -13,6 +13,8 @@ toggle: off
 platforms:
 short_platforms:
 games:
+title-cards:
+  - episode-40.jpg
 current_description: |
   The Nerd tries to make sense of the chronology behind the timeline for one of Nintendo's well-known video game series – The Legend of Zelda. This is Angry Video Game Nerd Episode 40.
 

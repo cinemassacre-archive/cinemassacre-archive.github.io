@@ -10,4 +10,6 @@ drive_id: 1qaxqMZZzWbZ0etSTKTCJLEWvs4e3CQJZ
 release_date: 2009-07-01
 mike_notes:
 toggle: off
+title-cards:
+  - episode-73.jpg
 ---

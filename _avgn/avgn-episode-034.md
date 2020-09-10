@@ -20,6 +20,8 @@ short_platforms:
 games:
   - Fester's Quest
   - The Addams Family
+title-cards:
+  - episode-34.jpg
 ---
 
 <p class="yt-description">YouTube description:</p>

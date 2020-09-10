@@ -16,7 +16,10 @@ platforms:
   - Nintendo Entertainment System
 short_platforms:
   - NES
-title-card: /assets/images/avgn/title-card/episode-6b.jpg
+title-cards: 
+  - episode-6.png
+  - episode-6b.jpg
+  - episode-6c.jpg
 thumbnails:
 games:
   - Back to the Future

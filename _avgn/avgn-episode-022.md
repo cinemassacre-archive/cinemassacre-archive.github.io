@@ -19,7 +19,8 @@ short_platforms:
   - Atari 2600
   - Master System
 thumbnails: 
-title-card: 
+title-cards: 
+  - episode-22.jpg
 games: 
   - Ghostbusters (NES)
   - Ghostbusters (Atari 2600)

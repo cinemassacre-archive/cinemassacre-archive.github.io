@@ -16,7 +16,9 @@ platforms:
   - Nintendo Entertainment System
 short_platforms:
   - NES
-title-card:
+title-cards:
+  - episode-10.jpg
+  - episode-10b.jpg
 thumbnails:
 games:
   - Top Gun

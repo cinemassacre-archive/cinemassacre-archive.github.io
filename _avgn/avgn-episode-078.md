@@ -10,4 +10,6 @@ drive_id: 1cmnM9LxshhlUzgeIAutNraXSMPhEFePa
 release_date: 2009-09-24
 mike_notes:
 toggle: off
+title-cards:
+  - episode-78.jpg
 ---

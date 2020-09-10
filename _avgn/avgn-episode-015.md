@@ -9,7 +9,8 @@ video_id: OEVzPCY2T-g
 drive_id: 18tNi0i26sexKCBnZezerXNADdDUi7szT
 release_date: 2006-11-28
 toggle: off
-title-card:
+title-cards:
+  - episode-15.jpg
 thumbnails:
 ---
 

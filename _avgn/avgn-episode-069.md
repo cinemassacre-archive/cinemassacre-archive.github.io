@@ -10,4 +10,6 @@ drive_id: 1ySGfMwSRoi72saVrEfQ-wwNqhsGpiHON
 release_date: 2009-05-06
 mike_notes:
 toggle: off
+title-cards:
+  - episode-69.jpg
 ---

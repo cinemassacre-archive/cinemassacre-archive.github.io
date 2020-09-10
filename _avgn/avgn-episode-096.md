@@ -10,4 +10,6 @@ drive_id: 1rWnIx76IYgzLoJQterkb3QP0YBDqlhKz
 release_date: 2010-11-04
 mike_notes:
 toggle: off
+title-cards:
+  - episode-96.png
 ---

@@ -17,7 +17,8 @@ platforms:
   - Nintendo Entertainment System
 short_platforms:
   - NES
-title-card:
+title-cards:
+  - episode-12.jpg
 thumbnails:
 games:
   - Friday the 13th

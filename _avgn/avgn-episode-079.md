@@ -10,4 +10,6 @@ drive_id: 1v0yeJ1FBCUfZTVZOIJVbyDyW7BJlGSIi
 release_date: 2009-10-08
 mike_notes:
 toggle: off
+title-cards:
+  - episode-79.jpg
 ---

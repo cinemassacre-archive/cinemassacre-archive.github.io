@@ -124,14 +124,25 @@ layout: default
 
 {{ content }}
 
-
+{% if page.title-cards != null %}
+<p class="gold">Title card(s):</p>
+  <div>
+    {% assign widthtotal = page.title-cards | size %}
+    {% assign widthtotal = 100 | divided_by: widthtotal %}
+    {% for card in page.title-cards %}
+    <a href="/assets/images/avgn/title-cards/{{ card }}"><img src="/assets/images/avgn/title-cards/{{ card }}" style="max-width: {{ widthtotal }}%;"></a>
+  {% endfor %}
+  </div>
+{% endif %}
 
 
 
 {% if page.thumbnails != null %}
 <p class="gold">Thumbnails:</p>
+  {% assign widthtotal = page.thumbnails | size %}
+  {% assign widthtotal = 100 | divided_by: widthtotal %}
   {% for thumbnail in page.thumbnails %}
-    <img src="{{ thumbnail }}" class="video-thumbnail">
+    <a href="{{ thumbnail }}"><img src="{{ thumbnail }}" class="video-thumbnail" style="max-width: {{ widthtotal }}%"></a>
   {% endfor %}
 
 {% endif %}

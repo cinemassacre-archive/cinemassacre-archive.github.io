@@ -16,6 +16,8 @@ short_platforms:
   - Atari 2600
 games:
   - Halloween
+title-cards:
+  - episode-36.jpg
 ---
 
 <p class="yt-description">YouTube description:</p>

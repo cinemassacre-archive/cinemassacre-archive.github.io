@@ -10,4 +10,6 @@ drive_id: 1_83flptvEX9LmzHOfRNfH7pTAR5wAST1
 release_date: 2010-10-07
 mike_notes:
 toggle: off
+title-cards:
+  - episode-95.png
 ---

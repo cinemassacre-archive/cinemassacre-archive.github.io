@@ -15,7 +15,8 @@ platforms:
 short_platforms:
   - Atari 5200
 thumbnails: 
-title-card: 
+title-cards: 
+  - episode-20-dvd.jpg
 games: 
 ---
 

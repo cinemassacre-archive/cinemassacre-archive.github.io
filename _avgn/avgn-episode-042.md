@@ -11,4 +11,6 @@ drive_id: 17wGu6X305uQmnqEaP4gQaHrd8OdcMbLG
 release_date: 2008-02-19
 mike_notes:
 toggle: off
+title-cards:
+  - episode-42.jpg
 ---

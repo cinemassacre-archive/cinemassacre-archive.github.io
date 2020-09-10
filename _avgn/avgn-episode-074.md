@@ -10,4 +10,7 @@ drive_id: 1mwmNLvhMY55riEges-_Nrlek0nk0z-jj
 release_date: 2009-07-21
 mike_notes:
 toggle: off
+title-cards:
+  - episode-74.png
+  - episode-74b.jpg
 ---

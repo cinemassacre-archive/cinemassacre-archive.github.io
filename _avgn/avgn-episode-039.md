@@ -22,6 +22,8 @@ games:
   - "Far Cry: Vengeance"
   - "Super Monkey Ball: Banana Blitz"
   - Boogie
+title-cards:
+  - episode-39.png
 ---
 
 <p class="yt-description">YouTube description:</p>

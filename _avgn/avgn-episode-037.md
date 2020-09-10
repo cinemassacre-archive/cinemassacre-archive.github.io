@@ -16,6 +16,8 @@ short_platforms:
   - NES
 games:
   - Dragon's Lair
+title-cards:
+  - episode-37.jpg
 ---
 
 <p class="yt-description">YouTube description:</p>

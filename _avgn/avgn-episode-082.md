@@ -10,4 +10,6 @@ drive_id: 14VGQ_3jaotlVef82WiPuSmTqXhUWeiMH
 release_date: 2009-11-19
 mike_notes:
 toggle: off
+title-cards:
+  - episode-82.jpg
 ---

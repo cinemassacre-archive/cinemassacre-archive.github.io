@@ -16,7 +16,8 @@ platforms:
   - Nintendo Entertainment System
 short_platforms:
   - NES
-title-card:
+title-cards:
+  - episode-9.jpg
 thumbnails:
 games:
   - Master Chu and the Drunkard Hu

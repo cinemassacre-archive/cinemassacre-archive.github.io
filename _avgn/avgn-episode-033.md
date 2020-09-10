@@ -14,6 +14,8 @@ toggle: off
 platforms:
 short_platforms:
 games:
+title-cards:
+  - episode-33.jpg
 ---
 
 <p class="yt-description">YouTube description:</p>

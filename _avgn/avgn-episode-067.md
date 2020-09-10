@@ -10,4 +10,6 @@ drive_id: 1RC_-61nkMn36ZR60VtiSZkxzTpAYZVbE
 release_date: 2009-04-08
 mike_notes:
 toggle: off
+title-cards:
+  - episode-67.jpg
 ---

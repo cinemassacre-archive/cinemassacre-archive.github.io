@@ -10,4 +10,6 @@ drive_id: 16CKnTyZMcLmMCtkFIqaJC4iV2UhC7XRF
 release_date: 2009-06-02
 mike_notes:
 toggle: off
+title-cards:
+  - episode-71.jpg
 ---

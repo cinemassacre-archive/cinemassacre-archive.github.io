@@ -19,6 +19,8 @@ games:
   - Virtua Fighter
   - Doom (Sega 32X)
   - Star Wars (Sega 32X)
+title-cards:
+  - episode-26.jpg
 ---
 
 <p class="mikes-notes">Mike's notes:</p>

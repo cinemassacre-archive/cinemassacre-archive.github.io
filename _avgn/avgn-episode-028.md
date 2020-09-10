@@ -17,5 +17,7 @@ short_platforms:
   - NES
 games:
   - Die Hard
+title-cards:
+  - episode-28.jpg
 ---
 

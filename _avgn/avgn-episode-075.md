@@ -10,4 +10,7 @@ drive_id: 1Nn9iZ28BLsUK3bjojdpFjVldluwEQOl7
 release_date: 2009-08-05
 mike_notes:
 toggle: off
+title-cards:
+  - episode-75.jpg
+  - episode-75b.png
 ---

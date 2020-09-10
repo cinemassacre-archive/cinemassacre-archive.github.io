@@ -10,4 +10,6 @@ drive_id: 1KW6eldcZlJ9W9_RXSst-1c75Jn_VdkEV
 release_date: 2009-05-19
 mike_notes:
 toggle: off
+title-cards:
+  - episode-70.jpg
 ---

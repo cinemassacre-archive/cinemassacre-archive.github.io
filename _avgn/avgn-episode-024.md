@@ -25,6 +25,8 @@ games:
   - "Spider-Man: Return of the Sinister Six"
   - The Amazing Spider-Man
   - Spider-Man 2
+title-cards:
+  - episode-24.jpg
 ---
 
 <p class="mikes-notes">Mike's notes:</p>

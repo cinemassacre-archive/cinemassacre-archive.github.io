@@ -17,6 +17,9 @@ short_platforms:
   - NES
 games:
   - The Bugs Bunny Birthday Blowout
+title-cards:
+  - episode-31.jpg
+  - episode-31b.png
 ---
 
 <p class="yt-description">YouTube description:</p>

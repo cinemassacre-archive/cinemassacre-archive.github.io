@@ -16,7 +16,8 @@ platforms:
   - Nintendo Entertainment System
 short_platforms:
   - NES
-title-card:
+title-cards:
+  - episode-7.jpg
 thumbnails:
 games:
   - M.C. Kids

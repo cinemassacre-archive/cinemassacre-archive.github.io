@@ -3,79 +3,20 @@ layout: gallery
 title: Board James Title Card Gallery
 permalink: /board-james/title-cards
 ---
-<h1 class="center">Board James Title Cards</h1>
+<h1 class="center">Board James Title Card Gallery</h1>
 
 <div class="gallery">
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-1.jpg" data-caption="Episode 1: Mouse Trap">
-    <img src="/assets/images/board-james/title-cards/episode-1.jpg">
-    </a>
-    <div class="desc">Episode 1: Mouse Trap</div>
-</div>
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-2.png" data-caption="Episode 2: Dragon Strike">
-    <img src="/assets/images/board-james/title-cards/episode-2.png">
-    </a>
-    <div class="desc">Episode 2: Dragon Strike</div>
-</div>
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-3.png" data-caption="Episode 3: Crossfire">
-    <img src="/assets/images/board-james/title-cards/episode-3.png">
-    </a>
-    <div class="desc">Episode 3: Crossfire</div>
-</div>
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-4.jpg" data-caption="Episode 4: Weapons & Warriors">
-    <img src="/assets/images/board-james/title-cards/episode-4.jpg">
-    </a>
-    <div class="desc">Episode 4: Weapons & Warriors</div>
-</div>
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-5.png" data-caption="Episode 5: Fireball Island">
-    <img src="/assets/images/board-james/title-cards/episode-5.png">
-    </a>
-    <div class="desc">Episode 5: Fireball Island</div>
-</div>
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-6.jpg" data-caption="Episode 6: Deadly Danger Dungeon">
-    <img src="/assets/images/board-james/title-cards/episode-6.jpg">
-    </a>
-    <div class="desc">Episode 6: Deadly Danger Dungeon</div>
-</div>
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-7.png" data-caption="Episode 7: HeroQuest">
-    <img src="/assets/images/board-james/title-cards/episode-7.png">
-    </a>
-    <div class="desc">Episode 7: HeroQuest</div>
-</div>
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-8.png" data-caption="Episode 8: Mr. Bucket">
-    <img src="/assets/images/board-james/title-cards/episode-8.png">
-    </a>
-    <div class="desc">Episode 8: Mr. Bucket</div>
-</div>
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-9.png" data-caption="Episode 9: Tornado Rex">
-    <img src="/assets/images/board-james/title-cards/episode-9.png">
-    </a>
-    <div class="desc">Episode 9: Tornado Rex</div>
-</div>
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-11.png" data-caption="Episode 11: Key to the Kingdom">
-    <img src="/assets/images/board-james/title-cards/episode-11.png">
-    </a>
-    <div class="desc">Episode 11: Key to the Kingdom</div>
-</div>
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-15.png" data-caption="Episode 15: Battle Masters">
-    <img src="/assets/images/board-james/title-cards/episode-15.png">
-    </a>
-    <div class="desc">Episode 15: Battle Masters</div>
-</div>
-<div class="tile">
-    <a href="/assets/images/board-james/title-cards/episode-18.png" data-caption="Episode 18: Shark Attack">
-    <img src="/assets/images/board-james/title-cards/episode-18.png">
-    </a>
-    <div class="desc">Episode 18: Shark Attack</div>
-</div>
+
+{% for episode in site.board-james %}
+  {% if episode.title-cards != null %}
+    {% for title-card in episode.title-cards %}
+      <div class="tile">
+        <a href="/assets/images/board-james/title-cards/{{ title-card }}" data-caption="Episode {{ episode.episode }}: {{ episode.title }}">
+          <img src="/assets/images/board-james/title-cards/{{ title-card }}">
+        </a>
+        <div class="desc">Episode {{ episode.episode }}: <a href="/board-james/episode-{{ episode.episode }}">{{ episode.title }}</a></div>
+      </div>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
 </div>

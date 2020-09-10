@@ -10,4 +10,6 @@ drive_id: 1FqJx1lLPctuz9Ka1d9NHQSO4PJbpamfh
 release_date: 2008-05-14
 mike_notes:
 toggle: off
+title-cards:
+  - episode-47.jpg
 ---
