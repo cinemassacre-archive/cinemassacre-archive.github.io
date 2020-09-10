@@ -1,6 +1,6 @@
 ---
 layout: gallery
-permalink: /avgn-title-cards
+permalink: /avgn/title-cards
 ---
 
 <h1 class="center">AVGN Title Card Gallery</h1>
