@@ -6,9 +6,9 @@ video_number: 52
 release_date: 1998-01-01
 description: 
 cast: 
-video_id: uLXTy90K5hA
-bitchute_id: KrzNh3dUYuWj/
-archive_id: 
+video_info:
+  - youtube;YouTube;uLXTy90K5hA
+  - bitchute;Bitchute archive;KrzNh3dUYuWj
 poster: snix-4.jpg
 video_available: true
 medium: live action

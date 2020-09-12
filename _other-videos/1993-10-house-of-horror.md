@@ -7,9 +7,9 @@ release_date: 1993-01-01
 description: |
   This is a Halloween special I made back in 1992 and 1993. It’s a complete mess, but it shows that I always managed to have fun on Halloween, even when I had no one else to spend it with. This is one of the oldest videos I’ve ever made. It has never been seen by anyone besides myself until now. Watch for animation at the end, done on Mario Paint (Super Nintendo)
 cast: 
-video_id: WiUMLUE3qRg
-bitchute_id: 
-archive_id: 
+video_id: 
+video_info:
+  - youtube;YouTube;WiUMLUE3qRg
 video_available: true
 medium: live action
 old_cm_description: |

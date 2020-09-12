@@ -15,6 +15,7 @@ include:
   - _ykwbs
   - _other-videos
   - _old-news
+  - _games
 
 collections:
   avgn:
@@ -32,4 +33,6 @@ collections:
   old-news:
     output: true
   other-videos:
+    output: true
+  games:
     output: true

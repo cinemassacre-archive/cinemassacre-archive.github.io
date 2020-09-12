@@ -17,10 +17,8 @@ description: |
 yt_description: |
   This is a horror movie I made in May 1996. It originally ran 30 minutes long, but this is a shortened version I made in 2006 to better suit the internet and the majority of attention spans. I was not feeling confident in the original film, but looking back, I no longer like this edit. It was not true to the original story, and discarded the twist ending. It also combines footage from the sequel "An Evening of Real Supernatural Horror" and "Malevolence".
 cast: 
-video_id: bmnLPGQd9-A
-video_id_info: (2006 re-edit)
-bitchute_id: 
-archive_id: 
+video_info:
+  - youtube;YouTube (2006 re-edit);bmnLPGQd9-A
 poster: a-night-of-total-terror.jpg
 video_available: true
 medium: live action

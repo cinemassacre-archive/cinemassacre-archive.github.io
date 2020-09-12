@@ -31,11 +31,7 @@ layout: default
     <h1><span class="gold">{{ page.series }}</span><br>{{ page.title }}</h1>
   {% endif %}
 
-  <p><span class="gold">Release date:</span><br>{{ page.release_date | date: '%B %-d, %Y'}}</p>
-
-  {% if page.youtube_date %}
-    <p><span class="gold">YouTube release date:</span><br>{{ page.youtube_date | date: '%B %-d, %Y' }}</p>
-  {% endif %}
+  <p><span class="gold">Release year:</span><br>{{ page.release_date | date: '%Y'}}</p>
 
   {% if page.previous_titles %}
   <p><span class="gold">Earlier titles:</span></p> 
@@ -49,23 +45,23 @@ layout: default
   {% if page.james_old_star_rating == 1 %}
   <p class="gold" style="font-size: xx-large; line-height: 0em;">&#9733;&#9734;&#9734;&#9734;&#9734;</p>
 
-  <p>"So bad, I've considered not listing it"</p>
+  <p style="font-size: smaller; line-height: 0em; padding-bottom: .5em;">{{ "So bad, I've considered not listing it" | upcase }}</p>
   {% elsif page.james_old_star_rating == 2 %}
   <p class="gold" style="font-size: xx-large; line-height: 0em;">&#9733;&#9733;&#9734;&#9734;&#9734;</p>
 
-  <p>"average or below"</p>
+  <p style="font-size: smaller; line-height: 0em; padding-bottom: .5em;">{{ "average or below" | upcase }}</p>
   {% elsif page.james_old_star_rating == 3 %}
   <p class="gold" style="font-size: xx-large; line-height: 0em;">&#9733;&#9733;&#9733;&#9734;&#9734;</p>
 
-  <p>"fairly good."</p>
+  <p style="font-size: smaller; line-height: 0em; padding-bottom: .5em;">{{ "fairly good" | upcase }}</p>
   {% elsif page.james_old_star_rating == 4 %}
   <p class="gold" style="font-size: xx-large; line-height: 0em;">&#9733;&#9733;&#9733;&#9733;&#9734;</p>
 
-  <p>"very good"</p>
+  <p style="font-size: smaller; line-height: 0em; padding-bottom: .5em;">{{ "very good" | upcase }}</p>
   {% elsif page.james_old_star_rating == 5 %}
   <p class="gold" style="font-size: xx-large; line-height: 0em;">&#9733;&#9733;&#9733;&#9733;&#9733;</p>
 
-  <p>"pushes the boundaries of no budget entertainment"</p>
+  <p style="font-size: smaller; line-height: 0em; padding-bottom: .5em;">{{ "pushes the boundaries of no budget entertainment" | upcase }}</p>
   {% endif %}
   {% endif %}
 
@@ -74,51 +70,24 @@ layout: default
     {{ page.james_old_number_rating }}/10
   {% endif %}
 
-  {% if page.video_id %}
-  <p class="gold">Video {% if page.video_id_info != null %}{{ page.video_id_info }}{% endif %}:</p>
-    <iframe class="video" src="https://www.youtube.com/embed/{{ page.video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {% endif %}
+  {% for video in page.video_info %}
 
-  {% if page.ra_video_id %}
-  <p class="gold">YouTube "review archive" version:</p>
-    <iframe class="video" src="https://www.youtube.com/embed/{{ page.ra_video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {% endif %}
+  {% assign newVideo = video | split: ';' %}
+    {% if newVideo[0] != null %}
+    <p class="gold">{{ newVideo[1] }}:</p>    
+    {% if newVideo[0] == "youtube" %}
+      <iframe class="video" src="https://www.youtube.com/embed/{{ newVideo[2] }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% elsif newVideo[0] == "bitchute" %}
+      <iframe class="video" src="https://www.bitchute.com/embed/{{ newVideo[2] }}"></iframe>
+    {% elsif newVideo[0] == "archiveorg" %}
+      <iframe class="video" src="https://archive.org/embed/{{ newVideo[2] }}"></iframe>
+    {% elsif newVideo[0] == "drive" %}
+      <iframe class="video" src="https://drive.google.com/file/d/{{ page.drive_id }}/preview"></iframe>
+    {% endif %}
+    {% endif %}
+  {% endfor %}
 
-  {% if page.alt_video_id %}
-    <p class="gold">Higher quality reupload:</p>
-    <iframe class="video" src="https://www.youtube.com/embed/{{ page.alt_video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {% endif %}
-
-  {% if page.drive_id %}
-    <p class="gold">ScrewAttack version:</p>
-    <iframe class="video" src="https://drive.google.com/file/d/{{ page.drive_id }}/preview"></iframe>
-  {% endif %}
-
-  {% if page.bitchute_id %}
-      <p class="gold">Bitchute Archive:</p>
-      <iframe class="video" src="https://www.bitchute.com/embed/{{ page.bitchute_id }}"></iframe>
-  {% endif %}
-
-  {% if page.archive_id %}
-      <p class="gold">Archive.org Archive:</p>
-      <iframe class="video" src="https://archive.org/embed/{{ page.archive_id }}"></iframe>
-  {% endif %}
-
-  {% if page.commentary_video_id %}
-    <p class="gold">Video with Commentary:</p>
-    <iframe class="video" src="https://www.youtube.com/embed/{{ page.commentary_video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {% endif %}
 </div>
-
-  {% if page.mikes_notes %}
-  <p class="gold">Mike's notes:</p>
-  {{ page.mikes_notes | markdownify }}
-{% endif %}
-
-{% if page.current_description %}
-  <p class="gold">YouTube description:</p>
-  {{ page.current_description | markdownify }}
-{% endif %}
 
 {% if page.old_cm_description != null %}
   <p class="gold">Old site description:</p>
@@ -140,9 +109,7 @@ layout: default
 {% if page.james_old_star_rating != null or page.james_old_number_rating != null %}
 <p class="gold">James's old ratings:</p>
 
-<p>Back in 2003 James included star ratings with each film he listed on his filmography on his website.</p>
-
-<p>Later on he switched to ratings out of ten.</p>
+<p>Back in 2003 James included star ratings with each film he listed on his filmography on his website (the text under the star rating was his description of what the star rating meant). Later on he switched to ratings out of ten.</p>
 
 <p>Eventually, he dropped the ratings entirely.</p>
 {% endif %}
@@ -158,8 +125,6 @@ layout: default
   </div>
 {% endif %}
 
-
-
 {% if page.thumbnails != null %}
 <p class="gold">Thumbnails:</p>
   {% assign widthtotal = page.thumbnails | size %}
@@ -168,4 +133,9 @@ layout: default
     <a href="{{ thumbnail }}"><img src="{{ thumbnail }}" class="video-thumbnail" style="max-width: {{ widthtotal }}%"></a>
   {% endfor %}
 
+{% endif %}
+
+{% if page.poster != null %}
+  <p class="gold">Poster:</p>
+  <img src="/assets/images/posters/{{ page.poster }}">
 {% endif %}

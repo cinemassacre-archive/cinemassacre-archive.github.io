@@ -6,10 +6,10 @@ video_number: 43
 release_date: 1997-01-01
 description: 
 cast: 
-video_id: 4Voz-InyODY
-video_id_info: (commentary)
-bitchute_id: 2ms3y00IJBvG/
-archive_id: 
+video_info:
+  - youtube;Movie with commentary;4Voz-InyODY
+  - bitchute;Bitchute archive of movie with commentary;2ms3y00IJBvG
+  - bitchute;Blooper video;ShhT01WcC1JO
 poster: red-zombie.jpg
 video_available: true
 medium: live action
@@ -18,8 +18,3 @@ old_cm_description: |
 james_old_star_rating: 4
 james_old_number_rating: 8
 ---
-
-<div class="center">
-<p class="gold">Bloopers:</p>
-<iframe class="video" src="https://www.bitchute.com/embed/ShhT01WcC1JO/"></iframe>
-</div>

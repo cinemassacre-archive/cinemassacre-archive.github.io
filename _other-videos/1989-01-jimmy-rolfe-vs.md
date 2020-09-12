@@ -6,7 +6,8 @@ video_number: 1
 release_date: 1989-07-14
 description: 
 cast: 
-video_id: o5cUT9wUh1Q
+video_info: 
+  - youtube;Hightlight video;o5cUT9wUh1Q
 bitchute_id: 
 archive_id: 
 video_available: true

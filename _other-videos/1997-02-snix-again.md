@@ -7,9 +7,9 @@ release_date: 1997-01-01
 description: |
   FUN FACT: The intro was created using Mario Paint!
 cast: 
-video_id: FwEtIkmJzd4
-bitchute_id: MbHm89v5jVFV/
-archive_id: 
+video_info:
+  - youtube;YouTube;FwEtIkmJzd4
+  - bitchute;Bitchute archive;MbHm89v5jVFV
 poster: snix-3.jpg
 video_available: true
 medium: live action

@@ -7,9 +7,8 @@ release_date: 1997-01-01
 description: |
   A montage of horror clips set to music from the video game Killer Instinct. I used professional analog editing equipment at the time, while taking a summer class for video.
 cast: 
-video_id: lvO5iI-u6C8
-bitchute_id: 
-archive_id: 
+video_info:
+  - youtube;YouTube;lvO5iI-u6C8
 video_available: true
 medium: music video
 old_cm_description: |

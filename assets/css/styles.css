@@ -24,11 +24,6 @@ footer {
     border: #444 solid 2px;
 }
 
-textarea {
-    height: 200px;
-    width: 400px;
-}
-
 table {
     border-collapse:collapse;
 }

@@ -6,9 +6,8 @@ video_number: 49
 release_date: 1997-01-01
 description: 
 cast: 
-video_id: 
-bitchute_id: 
-archive_id: 
+video_info:
+  - 
 poster: freaky-freak-show.jpg
 video_available: false
 medium: music video

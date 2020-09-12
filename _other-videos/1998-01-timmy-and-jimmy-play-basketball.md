@@ -6,9 +6,9 @@ video_number: 50
 release_date: 1998-01-01
 description: 
 cast: 
-video_id: JD7nK_xRl9k
-bitchute_id: 3c1O3Z2ANzYu/
-archive_id: 
+video_info:
+  - youtube;YouTube;JD7nK_xRl9k
+  - bitchute;Bitchute archive;3c1O3Z2ANzYu
 video_available: true
 medium: live action
 old_cm_description: |

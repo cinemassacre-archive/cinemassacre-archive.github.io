@@ -8,9 +8,9 @@ description:
 yt_description: |
   A secret gem from director James Rolfe of the Cinemassacre Productions. The never-released Cinemassacre classic "The Spread of Malevolence" has now been re-edited and digitally remastered by Conrad Studios. Featuring music from Brand X.
 cast: 
-video_id: Mg7tJZ4eTAI
-bitchute_id: 
-archive_id: 
+video_info:
+  - youtube;YouTube (edited by Conrad Studios);Mg7tJZ4eTAI
+  - bitchute;Bitchute archive;XMVYvO4HqtTg
 video_available: true
 medium: live action
 old_cm_description: |

@@ -6,9 +6,9 @@ video_number: 29
 release_date: 1996-01-01
 description: 
 cast: 
-video_id: EhO-51yNQ_o
-bitchute_id: HU3HE8MNtOcb/
-archive_id: 
+video_info:
+  - youtube;YouTube;EhO-51yNQ_o
+  - bitchute;Bitchute archive;HU3HE8MNtOcb
 poster: snix-2.jpg
 video_available: true
 medium: live action

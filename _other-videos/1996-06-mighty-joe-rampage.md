@@ -6,9 +6,8 @@ video_number: 32
 release_date: 1996-01-01
 description: 
 cast: 
-video_id: 
-bitchute_id: 
-archive_id: 
+video_info:
+  - 
 poster: mighty-joe-rampage.jpg
 video_available: false
 medium: live action

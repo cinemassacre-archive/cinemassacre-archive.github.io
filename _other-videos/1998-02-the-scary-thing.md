@@ -6,9 +6,8 @@ video_number: 51
 release_date: 1998-01-01
 description: 
 cast: 
-video_id: 
-bitchute_id: 
-archive_id: 
+video_info:
+  - 
 video_available: false
 medium: live action
 old_cm_description: |

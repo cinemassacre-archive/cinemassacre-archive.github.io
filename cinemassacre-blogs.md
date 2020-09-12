@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /blog
+title: Old News Posts from Cinemassacre.com
 ---
 
 <h1 class="center">Old News Posts from Cinemassacre.com</h1>

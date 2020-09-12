@@ -6,9 +6,9 @@ video_number: 58
 release_date: 1998-01-01
 description: 
 cast: 
-video_id: nrVLKXaOR6o
-bitchute_id: DT6L6aTBcNZr/
-archive_id: 
+video_info:
+  - youtube;YouTube;nrVLKXaOR6o
+  - bitchute;Bitchute archive;DT6L6aTBcNZr
 poster: the-atmos-fear-ic-garage-of-the-supernatural.jpg
 video_available: true
 medium: live action

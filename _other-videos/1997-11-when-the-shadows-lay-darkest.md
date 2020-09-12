@@ -17,9 +17,8 @@ description: |
 
   I wish the quality could be better, but I’m fortunate the tape still exists.
 cast: 
-video_id: YrERwv0mVMA
-bitchute_id: 
-archive_id: 
+video_info:
+  - youtube;YouTube;YrERwv0mVMA
 video_available: true
 medium: animated
 old_cm_description: |

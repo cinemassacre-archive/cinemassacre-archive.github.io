@@ -11,10 +11,9 @@ description: |
 yt_description: |
   highlights from the film "Droppings" (a.k.a. Bird Turds) Made in August 1998
 cast: 
-video_id: 7ixLF0cP9WY
-video_id_info: (highlights)
-bitchute_id: ZfI67Bil2UDC/
-archive_id: 
+video_info:
+  - youtube;Highlight video called "Holy Shit!";7ixLF0cP9WY
+  - bitchute;Bitchute archive;ZfI67Bil2UDC
 poster: droppings.jpg
 video_available: true
 medium: live action

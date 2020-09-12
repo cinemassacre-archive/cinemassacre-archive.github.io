@@ -9,10 +9,9 @@ description: |
 yt_description: |
   10 year anniversary!!! This is just the trailer. I won't upload the whole thing because it sucks!
 cast: 
-video_id: XhzH6k6B8og
-video_id_info: (trailer)
-bitchute_id: XbWMI5dKfgQQ/
-archive_id: 
+video_info:
+  - youtube;Trailer;XhzH6k6B8og
+  - bitchute;Bitchute archive of the trailer;XbWMI5dKfgQQ
 poster: rumble-in-the-jungle.jpg
 video_available: true
 medium: live action

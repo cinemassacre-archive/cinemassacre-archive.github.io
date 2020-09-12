@@ -6,9 +6,9 @@ video_number: 17
 release_date: 1993-01-01
 description: 
 cast: 
-video_id: 
-bitchute_id: YalWFJcnVPLX/
-archive_id: LostCinemassacreVideos/Cinemassacre-CutOutAnimation1993334.mov
+video_info:
+  - bitchute;Bitchute archive;YalWFJcnVPLX
+  - archiveorg;Archive.org archive;LostCinemassacreVideos/Cinemassacre-CutOutAnimation1993334.mov
 video_available: true
 medium: animation
 old_cm_description: |

@@ -6,9 +6,9 @@ video_number: 13
 release_date: 1993-01-01
 description: 
 cast: 
-video_id: k6CgvoucSvs
-bitchute_id: enV06UHNOErm/
-archive_id: 
+video_info:
+  - youtube;YouTube;k6CgvoucSvs
+  - bitchute;Bitchute archive;enV06UHNOErm
 video_available: true
 medium: live action
 old_cm_description: |

@@ -6,9 +6,8 @@ video_number: 35
 release_date: 1996-01-01
 description: 
 cast: 
-video_id: 
-bitchute_id: 
-archive_id: 
+video_info:
+  - 
 poster: an-evening-of-real-supernatural-horror.jpg
 video_available: false
 medium: live action

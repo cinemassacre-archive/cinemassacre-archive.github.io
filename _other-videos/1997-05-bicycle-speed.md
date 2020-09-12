@@ -9,9 +9,9 @@ description: |
 yt_description: |
   This is just ridiculous and is the first in a series starring goofy characters named Timmy and Jimmy. This is before South Park took my idea! Oh and guess what, there was NO EDITING, all the cuts were made in-camera, then the sound was dubbed in live. (that is while the VHS tape was being copied, we were redubbing our voices and the music was coming from a portable tape player.) Another piece of trivia: we made this movie the same day we did Rumble in the Jungle. Notice the same clothes.
 cast: 
-video_id: phDbMl1Q9EU
-bitchute_id: 
-archive_id: 
+video_info:
+  - youtube;YouTube;phDbMl1Q9EU
+  - bitchute;Bitchute;rSCgD94Tute4
 poster: bicycle-speed.jpg
 video_available: true
 medium: live action

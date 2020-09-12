@@ -6,9 +6,9 @@ video_number: 54
 release_date: 1998-01-01
 description: 
 cast: 
-video_id: IlmeZ1EjOqQ
-bitchute_id: lIJqoask7M3r/
-archive_id: 
+video_info:
+  - youtube;YouTube;IlmeZ1EjOqQ
+  - bitchute;Bitchute archive;lIJqoask7M3r
 poster: snix-6.jpg
 video_available: true
 medium: live action

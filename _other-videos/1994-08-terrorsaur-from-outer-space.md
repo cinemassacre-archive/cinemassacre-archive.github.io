@@ -6,9 +6,8 @@ video_number: 25
 release_date: 1994-01-01
 description: 
 cast: 
-video_id: 
-bitchute_id: 
-archive_id: 
+video_info:
+  - 
 video_available: false
 medium: puppets
 old_cm_description: |

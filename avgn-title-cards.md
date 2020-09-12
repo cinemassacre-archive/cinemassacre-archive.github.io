@@ -1,6 +1,7 @@
 ---
 layout: gallery
 permalink: /avgn/title-cards
+title: AVGN Title Card Gallery
 ---
 
 <h1 class="center">AVGN Title Card Gallery</h1>
@@ -14,7 +15,7 @@ permalink: /avgn/title-cards
         <a href="/assets/images/avgn/title-cards/{{ title-card }}" data-caption="Episode {{ episode.episode }}: {{ episode.title }}">
           <img src="/assets/images/avgn/title-cards/{{ title-card }}">
         </a>
-        <div class="desc">Episode {{ episode.episode }}: <a href="/avgn/episode-{{ episode.episode }}">{{ episode.title }}</a></div>
+        <div class="desc" style="height: 50px;">Episode {{ episode.episode }}: <a href="/avgn/episode-{{ episode.episode }}">{{ episode.title }}</a></div>
       </div>
     {% endfor %}
   {% endif %}

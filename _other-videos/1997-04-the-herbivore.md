@@ -7,9 +7,8 @@ release_date: 1997-01-01
 description: |
   Shot in 1997, without any editing whatsoever. Whatever was shot on the VHS tape was the final movie. We didn’t care. The music was dubbed directly onto the original master tape with an audio cassette recorder. The whole video was practically made during a walk home from the school bus.
 cast: 
-video_id: MwW03jjVcX8
-bitchute_id: 
-archive_id: 
+video_info:
+  - youtube;YouTube;MwW03jjVcX8
 poster: the-herbivore.jpg
 video_available: true
 medium: live action
