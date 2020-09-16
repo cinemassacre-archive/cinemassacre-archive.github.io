@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 42
 title: Monster in My Pocket
 permalink: /mike-and-bootsy/episode-42
-video_id: yF9pApgyCHs
+video_info:
+  - youtube;YouTube;yF9pApgyCHs
 release_date: 2016-11-02
 platforms:
   - Nintendo Entertainment System

@@ -7,7 +7,7 @@ release_date: 1989-07-14
 description: 
 cast: 
 video_info: 
-  - youtube;Hightlight video;o5cUT9wUh1Q
+  - youtube;Highlight video;o5cUT9wUh1Q
 bitchute_id: 
 archive_id: 
 video_available: true

@@ -5,9 +5,10 @@ season: 1
 episode: 14
 title: "The Power Glove"
 permalink: /avgn/episode-14
-video_id: MYDuy7wM8Gk
-alt_video_id: 3hfHc0uZAIM
-drive_id: 1AmI0jD6EY2DAbAuIUh-en27jr95zPdOp
+video_info:
+  - youtube;YouTube;MYDuy7wM8Gk
+  - youtube;Higher quality reupload;3hfHc0uZAIM
+  - drive;ScrewAttack version;1AmI0jD6EY2DAbAuIUh-en27jr95zPdOp
 release_date: 2006-11-15
 previous_titles:
   - "Angry Nintendo Nerd: The Power Glove"

@@ -6,7 +6,8 @@ season_episode: 9
 episode: 17
 title: Doggie Doo
 permalink: /board-james/episode-17
-video_id: UQ3-JAAgbP8
+video_info:
+  - youtube;YouTube;UQ3-JAAgbP8
 release_date: 2012-01-25
 thumbnails:
 title-cards: 

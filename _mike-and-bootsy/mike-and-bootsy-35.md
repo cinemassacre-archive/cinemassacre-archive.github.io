@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 35
 title: Jackal
 permalink: /mike-and-bootsy/episode-35
-video_id: NuiDyOUkJqg
+video_info:
+  - youtube;YouTube;NuiDyOUkJqg
 release_date: 2016-09-15
 platforms:
   - Nintendo Entertainment System

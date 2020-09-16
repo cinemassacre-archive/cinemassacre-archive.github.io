@@ -5,7 +5,8 @@ season: 12
 episode: 156
 title: "Earthbound"
 permalink: /avgn/episode-156
-video_id: LZ5nX0FTH6Q
+video_info:
+  - youtube;YouTube;LZ5nX0FTH6Q
 release_date: 2018-04-17
 mike_notes:
 toggle: off

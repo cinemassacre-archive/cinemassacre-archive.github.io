@@ -5,8 +5,10 @@ season: 1
 episode: 16
 title: "Rocky"
 permalink: /avgn/episode-16
-video_id: v7poR6G3hec
-drive_id: 1xlZ2_8DTCHi65qYgbLcue9WhcgQz8-zp
+video_info:
+  - youtube;YouTube;v7poR6G3hec
+  - youtube;Higher quality reupload;
+  - drive;ScrewAttack version;1xlZ2_8DTCHi65qYgbLcue9WhcgQz8-zp
 release_date: 2006-12-14
 toggle: off
 platforms: 

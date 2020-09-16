@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 14
 title: Jungle Hunt
 permalink: /mike-and-bootsy/episode-14
-video_id: iP29Wjx-bj0
+video_info:
+  - youtube;YouTube;iP29Wjx-bj0
 release_date: 2016-03-30
 platforms:
   - Atari 2600

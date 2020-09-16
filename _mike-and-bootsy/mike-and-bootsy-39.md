@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 39
 title: The Real Ghostbusters
 permalink: /mike-and-bootsy/episode-39
-video_id: LrZrPcw3n1c
+video_info:
+  - youtube;YouTube;LrZrPcw3n1c
 release_date: 2016-10-13
 platforms:
   - Multiple Arcade Machine Emulator

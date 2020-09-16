@@ -4,7 +4,8 @@ series: Board James Extras
 episode: 4
 title: A New Turn (Board James Documentary)
 permalink: /board-james/extras-4
-video_id: zSbMmZk85ZA
+video_info:
+  - youtube;YouTube;zSbMmZk85ZA
 release_date: 2017-03-13
 thumbnails:
 current_description: |

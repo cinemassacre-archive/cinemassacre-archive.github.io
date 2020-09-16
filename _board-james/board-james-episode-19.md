@@ -6,8 +6,9 @@ season_episode: 11
 episode: 19
 title: Dream Phone
 permalink: /board-james/episode-19
-video_id: gzWtnyhdn_4
-commentary_video_id: -Fn7OKqgJUo
+video_info:
+  - youtube;YouTube;gzWtnyhdn_4
+  - youtube;With commentary;-Fn7OKqgJUo
 release_date: 2013-04-01
 thumbnails:
 title-cards: 

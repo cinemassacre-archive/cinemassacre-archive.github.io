@@ -6,8 +6,9 @@ season_episode: 1
 episode: 1
 title: Mouse Trap
 permalink: /board-james/episode-1
-video_id: AZCplp_AtRo
-alt_video_id: WrXjo9saurg
+video_info:
+  - youtube;YouTube;AZCplp_AtRo
+  - youtube;Higher quality reupload;WrXjo9saurg
 release_date: 2009-04-14
 thumbnails: 
 title-cards: 

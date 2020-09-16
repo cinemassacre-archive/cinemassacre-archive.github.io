@@ -5,9 +5,10 @@ season: 1
 episode: 3
 title: "The Karate Kid"
 permalink: /avgn/episode-3
-video_id: 9DfdRdOM_B0
-alt_video_id: ssLeEzA1EC0
-drive_id: 1fGb86DSzxqtxsvnavFbn810HNUqIg9HK
+video_info:
+  - youtube;YouTube;9DfdRdOM_B0
+  - youtube;Higher quality reupload;ssLeEzA1EC0
+  - drive;ScrewAttack version;1fGb86DSzxqtxsvnavFbn810HNUqIg9HK
 release_date: 2006-04-08
 previous_titles:
   - "Angry Nintendo Nerd: The Karate Kid"

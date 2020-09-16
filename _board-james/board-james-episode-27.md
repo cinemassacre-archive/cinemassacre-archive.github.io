@@ -6,7 +6,8 @@ season_episode: 8
 episode: 27
 title: NIGHTMARE and Beyond
 permalink: /board-james/episode-27
-video_id: nSD2pToV8qA
+video_info:
+  - youtube;YouTube;nSD2pToV8qA
 release_date: 2015-12-04
 thumbnails:
 title-cards: 

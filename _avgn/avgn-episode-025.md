@@ -5,9 +5,10 @@ season: 2
 episode: 25
 title: "Sega CD"
 permalink: /avgn/episode-25
-video_id: g2eH3vYbdGo
-alt_video_id: R0z4RFDHFQI
-drive_id: 1ehXOmfVTI_HEIkeejgTb79OXIANUe_Nv
+video_info:
+  - youtube;YouTube;g2eH3vYbdGo
+  - youtube;Higher quality reupload;R0z4RFDHFQI
+  - drive;ScrewAttack version;1ehXOmfVTI_HEIkeejgTb79OXIANUe_Nv
 release_date: 2007-05-02
 toggle: off
 platforms:

@@ -6,7 +6,8 @@ season_episode: 2
 episode: 21
 title: Lie Detector Game
 permalink: /board-james/episode-21
-video_id: vTnG3hrSGS0
+video_info:
+  - youtube;YouTube;vTnG3hrSGS0
 release_date: 2015-05-03
 thumbnails:
 title-cards: 

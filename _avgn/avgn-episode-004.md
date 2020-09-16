@@ -5,9 +5,10 @@ season: 1
 episode: 4
 title: "Who Framed Roger Rabbit?"
 permalink: /avgn/episode-4
-video_id: l-6WakV0kWM
-alt_video_id: 7M2U27OUnig
-drive_id: 1FOLJi55L2-h4hl2u4puD47S1BkUHDUpM
+video_info:
+  - youtube;YouTube;l-6WakV0kWM
+  - youtube;Higher quality reupload;7M2U27OUnig
+  - drive;ScrewAttack version;1FOLJi55L2-h4hl2u4puD47S1BkUHDUpM
 release_date: 2006-04-28
 previous_titles:
   - "Angry Nintendo Nerd: Who Framed Roger Rabbit?"

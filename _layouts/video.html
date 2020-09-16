@@ -87,30 +87,23 @@ layout: default
   {% endfor %}
   {% endif %}
 
-  {% if page.video_id %}
-  <p class="gold">Video:</p>
-    <iframe class="video" src="https://www.youtube.com/embed/{{ page.video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {% endif %}
+  {% for video in page.video_info %}
 
-  {% if page.ra_video_id %}
-  <p class="gold">YouTube "review archive" version:</p>
-    <iframe class="video" src="https://www.youtube.com/embed/{{ page.ra_video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {% endif %}
+  {% assign newVideo = video | split: ';' %}
+    {% if newVideo[0] != null %}
+    <p class="gold">{{ newVideo[1] }}:</p>    
+    {% if newVideo[0] == "youtube" %}
+      <iframe class="video" src="https://www.youtube.com/embed/{{ newVideo[2] }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    {% elsif newVideo[0] == "bitchute" %}
+      <iframe class="video" src="https://www.bitchute.com/embed/{{ newVideo[2] }}"></iframe>
+    {% elsif newVideo[0] == "archiveorg" %}
+      <iframe class="video" src="https://archive.org/embed/{{ newVideo[2] }}"></iframe>
+    {% elsif newVideo[0] == "drive" %}
+      <iframe class="video" src="https://drive.google.com/file/d/{{ newVideo[2] }}/preview"></iframe>
+    {% endif %}
+    {% endif %}
+  {% endfor %}
 
-  {% if page.alt_video_id %}
-    <p class="gold">Higher quality reupload:</p>
-    <iframe class="video" src="https://www.youtube.com/embed/{{ page.alt_video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {% endif %}
-
-  {% if page.drive_id %}
-    <p class="gold">ScrewAttack version:</p>
-    <iframe class="video" src="https://drive.google.com/file/d/{{ page.drive_id }}/preview"></iframe>
-  {% endif %}
-
-  {% if page.commentary_video_id %}
-    <p class="gold">Video with Commentary:</p>
-    <iframe class="video" src="https://www.youtube.com/embed/{{ page.commentary_video_id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  {% endif %}
 </div>
 
   {% if page.mikes_notes %}

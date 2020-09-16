@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 44
 title: Super Mario Bros. Rebirth
 permalink: /mike-and-bootsy/episode-44
-video_id: g3ygZspthjc
+video_info:
+  - youtube;YouTube;g3ygZspthjc
 release_date: 2016-11-17
 platforms:
   - Nintendo Entertainment System

@@ -6,8 +6,9 @@ season_episode: 6
 episode: 6
 title: Deadly Danger Dungeon
 permalink: /board-james/episode-6
-video_id: oQRUL2r-4ts
-alt_video_id: EuLcjD0AmPM
+video_info:
+  - youtube;YouTube;oQRUL2r-4ts
+  - youtube;Higher quality reupload;EuLcjD0AmPM
 release_date: 2010-04-07
 thumbnails:
 title-cards: 

@@ -5,10 +5,11 @@ season: 1
 episode: 13
 title: "A Nightmare on Elm Street"
 permalink: /avgn/episode-13
-video_id: 3p713bNaO4A
-ra_video_id: -D8u4-y63iM
-alt_video_id: ZI-s6YaNIxo
-drive_id: 1qSwNP1NvP_Y4suvIa3iAdt9bbAzrYLdt
+video_info:
+  - youtube;YouTube;3p713bNaO4A
+  - youtube;YouTube "review archive" version;-D8u4-y63iM
+  - youtube;Higher quality reupload;ZI-s6YaNIxo
+  - drive;ScrewAttack version;1qSwNP1NvP_Y4suvIa3iAdt9bbAzrYLdt
 release_date: 2006-10-31
 previous_titles:
   - "Angry Nintendo Nerd: A Nightmare on Elm Street"

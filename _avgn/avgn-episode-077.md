@@ -5,8 +5,9 @@ season: 4
 episode: 77
 title: "Godzilla"
 permalink: /avgn/episode-77
-video_id: C8mQHotlaFo
-drive_id: 1JnkiAhMpWrdT3AZJ5ROfCjvSFd0w7YuP
+video_info:
+  - youtube;YouTube;C8mQHotlaFo
+  - drive;ScrewAttack version;1JnkiAhMpWrdT3AZJ5ROfCjvSFd0w7YuP
 release_date: 2009-09-04
 mike_notes:
 toggle: off

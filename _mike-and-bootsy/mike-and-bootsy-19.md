@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 19
 title: Caveman Games
 permalink: /mike-and-bootsy/episode-19
-video_id: dFpe9DRAaGw
+video_info:
+  - youtube;YouTube;dFpe9DRAaGw
 release_date: 2016-05-05
 platforms:
   - Nintendo Entertainment System

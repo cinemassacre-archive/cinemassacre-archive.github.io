@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 31
 title: Super Mario Brothers - Frustration Forever
 permalink: /mike-and-bootsy/episode-31
-video_id: Fb53Bj4T__8
+video_info:
+  - youtube;YouTube;Fb53Bj4T__8
 release_date: 2016-08-17
 platforms:
   - Nintendo Entertainment System

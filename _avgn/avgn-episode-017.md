@@ -5,9 +5,10 @@ season: 1
 episode: 17
 title: "Bible Games"
 permalink: /avgn/episode-17
-video_id: LkNvQYiM6bw
-alt_video_id: FkNlVB9SQi8
-drive_id: 1DVBP0ZKm19OYmeIYtbGunY0BliNWwh-i
+video_info:
+  - youtube;YouTube;LkNvQYiM6bw
+  - youtube;Higher quality reupload;FkNlVB9SQi8
+  - drive;ScrewAttack version;1DVBP0ZKm19OYmeIYtbGunY0BliNWwh-i
 release_date: 2006-12-23
 toggle: off
 platforms: 

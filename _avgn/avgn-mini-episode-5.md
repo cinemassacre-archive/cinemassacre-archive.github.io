@@ -4,7 +4,8 @@ series: Angry Video Game Nerd Minis
 episode: 5
 title: "Adventure Island"
 permalink: /avgn/mini-episode-5
-video_id: 7FOTi2e1NLg
+video_info:
+  - youtube;YouTube;7FOTi2e1NLg
 release_date: 2014-11-08
 mike_notes:
 toggle: off

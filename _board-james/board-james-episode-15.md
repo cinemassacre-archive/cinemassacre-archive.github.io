@@ -6,8 +6,9 @@ season_episode: 7
 episode: 15
 title: Battle Masters
 permalink: /board-james/episode-15
-video_id: kTKXLasBglc
-alt_video_id: lc_oHp4BbZY
+video_info:
+  - youtube;YouTube;kTKXLasBglc
+  - youtube;Higher quality reupload;lc_oHp4BbZY
 release_date: 2011-11-24
 thumbnails:
 title-cards: 

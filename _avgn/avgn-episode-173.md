@@ -5,7 +5,8 @@ season: 13
 episode: 173
 title: "The Immortal"
 permalink: /avgn/episode-173
-video_id: KvGxHuEUXgs
+video_info:
+  - youtube;YouTube;KvGxHuEUXgs
 release_date: 2019-10-16
 mike_notes:
 toggle: off

@@ -4,7 +4,8 @@ series: Angry Video Game Nerd Minis
 episode: 3
 title: "Bubble Bobble"
 permalink: /avgn/mini-episode-3
-video_id: CHmc8wfijrU
+video_info:
+  - youtube;YouTube;CHmc8wfijrU
 release_date: 2012-10-21
 mike_notes:
 toggle: off

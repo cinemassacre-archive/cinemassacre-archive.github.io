@@ -5,9 +5,10 @@ season: 2
 episode: 39
 title: "An Angry Nerd Christmas Carol Part 2"
 permalink: /avgn/episode-39
-video_id: l7XIbwtMl4Y
-alt_video_id: 7dDAyl9Hx0Y
-drive_id: 176KswsAtppl2veTZiIXzRSPclqRKO1B7
+video_info:
+  - youtube;YouTube;l7XIbwtMl4Y
+  - youtube;Higher quality reupload;7dDAyl9Hx0Y
+  - drive;ScrewAttack version;176KswsAtppl2veTZiIXzRSPclqRKO1B7
 release_date: 2007-12-23
 toggle: off
 platforms:

@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 12
 title: Donkey Kong 3
 permalink: /mike-and-bootsy/episode-12
-video_id: YYCYsWn2DyQ
+video_info:
+  - youtube;YouTube;YYCYsWn2DyQ
 release_date: 2016-03-17
 platforms:
   - Nintendo Entertainment System

@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 8
 title: RoboTron 2084
 permalink: /mike-and-bootsy/episode-8
-video_id: xFkVEt_HFLU
+video_info:
+  - youtube;YouTube;xFkVEt_HFLU
 release_date: 2016-02-11
 platforms:
   - Microsoft Xbox 360

@@ -5,8 +5,9 @@ season: 4
 episode: 68
 title: "Odyssey"
 permalink: /avgn/episode-68
-video_id: kDAKxjG7VaI
-drive_id: 1H2WCKA_kVwV2GS1KTCwTrIFLmCaT5PIA
+video_info:
+  - youtube;YouTube;kDAKxjG7VaI
+  - drive;ScrewAttack version;1H2WCKA_kVwV2GS1KTCwTrIFLmCaT5PIA
 release_date: 2009-04-21
 mike_notes:
 toggle: off

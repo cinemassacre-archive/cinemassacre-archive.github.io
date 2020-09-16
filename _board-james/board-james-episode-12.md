@@ -6,8 +6,9 @@ season_episode: 4
 episode: 12
 title: Donut Disaster
 permalink: /board-james/episode-12
-video_id: eJo0C71lO8o
-alt_video_id: IYXdnS_hFAs
+video_info:
+  - youtube;YouTube;eJo0C71lO8o
+  - youtube;Higher quality reupload;IYXdnS_hFAs
 release_date: 2011-08-17
 thumbnails:
 title-cards: 

@@ -5,9 +5,10 @@ season: 2
 episode: 23
 title: "Ghostbusters: Conclusion"
 permalink: /avgn/episode-23
-video_id: kZfq-IPlLF8
-alt_video_id: R91gSroHDRk
-drive_id: 1qCyfMafvM0evVyT6RgJeYj-mT3qzyf9e
+video_info:
+  - youtube;YouTube;kZfq-IPlLF8
+  - youtube;Higher quality reupload;R91gSroHDRk
+  - drive;ScrewAttack version;1qCyfMafvM0evVyT6RgJeYj-mT3qzyf9e
 release_date: 2007-04-03
 toggle: off
 platforms: 

@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 46
 title: Karate Kid
 permalink: /mike-and-bootsy/episode-46
-video_id: Oy5WRRMnfls
+video_info:
+  - youtube;YouTube;Oy5WRRMnfls
 release_date: 2016-12-01
 platforms:
   - Nintendo Entertainment System

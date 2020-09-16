@@ -5,9 +5,10 @@ season: 2
 episode: 26
 title: "Sega 32X"
 permalink: /avgn/episode-26
-video_id: VvR_3OTxs8A
-alt_video_id: 7ZPrcJECHLE
-drive_id: 1AdNu7IA-RJzAmZsCYsxX1_GNouR8KkRD
+video_info:
+  - youtube;YouTube;VvR_3OTxs8A
+  - youtube;Higher quality reupload;7ZPrcJECHLE
+  - drive;ScrewAttack version;1AdNu7IA-RJzAmZsCYsxX1_GNouR8KkRD
 release_date: 2007-05-15
 toggle: off
 platforms:

@@ -5,7 +5,8 @@ season: 11
 episode: 148
 title: "Treasure Master"
 permalink: /avgn/episode-148
-video_id: ft0aqF_Yc0A
+video_info:
+  - youtube;YouTube;ft0aqF_Yc0A
 release_date: 2017-09-20
 mike_notes:
 toggle: off

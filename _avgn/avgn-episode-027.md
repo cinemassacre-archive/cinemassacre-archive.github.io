@@ -5,9 +5,10 @@ season: 2
 episode: 27
 title: "Silver Surfer"
 permalink: /avgn/episode-27
-video_id: gvnRBywkUZ0
-alt_video_id: gBM_g3Z-Byk
-drive_id: 1Lg9yjBTfl6D4YSqYsNzFj0FzObltg6US
+video_info:
+  - youtube;YouTube;gvnRBywkUZ0
+  - youtube;Higher quality reupload;gBM_g3Z-Byk
+  - drive;ScrewAttack version;1Lg9yjBTfl6D4YSqYsNzFj0FzObltg6US
 release_date: 2007-06-05
 toggle: off
 platforms:

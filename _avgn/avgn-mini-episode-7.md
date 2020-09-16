@@ -4,7 +4,8 @@ series: Angry Video Game Nerd Minis
 episode: 7
 title: "The Adventures of Gilligan's Island"
 permalink: /avgn/mini-episode-9
-video_id: gEicSyYDVks
+video_info:
+  - youtube;YouTube;gEicSyYDVks
 release_date: 2016-11-13
 mike_notes:
 toggle: off

@@ -5,9 +5,10 @@ season: 2
 episode: 22
 title: "Ghostbusters: Follow-Up"
 permalink: /avgn/episode-22
-video_id: qF2snKCmqJo
-alt_video_id: ghrRrZ94QOE
-drive_id: 1GQ9iKubRGzHADLzLxCRODMrAc2Zm5kyc
+video_info:
+  - youtube;YouTube;qF2snKCmqJo
+  - youtube;Higher quality reupload;ghrRrZ94QOE
+  - drive;ScrewAttack version;1GQ9iKubRGzHADLzLxCRODMrAc2Zm5kyc
 release_date: 2007-03-20
 toggle: off
 platforms: 

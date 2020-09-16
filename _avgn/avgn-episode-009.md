@@ -5,9 +5,10 @@ season: 1
 episode: 9
 title: "Master Chu and the Drunkard Hu"
 permalink: /avgn/episode-9
-video_id: sayp5lieKuU
-alt_video_id: u8UmyRLe2ls
-drive_id: 1c_VIi8V08rsA1MuJxDCl76vZ_PtI4Gcc
+video_info:
+  - youtube;YouTube;sayp5lieKuU
+  - youtube;Higher quality reupload;u8UmyRLe2ls
+  - drive;ScrewAttack version;1c_VIi8V08rsA1MuJxDCl76vZ_PtI4Gcc
 release_date: 2006-09-08
 previous_titles:
   - "Angry Nintendo Nerd: Master Chu and the Drunkard Hu"

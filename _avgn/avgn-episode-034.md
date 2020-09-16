@@ -5,9 +5,10 @@ season: 2
 episode: 34
 title: "Fester's Quest"
 permalink: /avgn/episode-34
-video_id: B0iwC58K6t0
-alt_video_id: --mFpdu8F6Q
-drive_id: 1_2RMzHTMXwoXS45Ik1t5NHSubWLxVK9N
+video_info:
+  - youtube;YouTube;B0iwC58K6t0
+  - youtube;Higher quality reupload;--mFpdu8F6Q
+  - drive;ScrewAttack version;1_2RMzHTMXwoXS45Ik1t5NHSubWLxVK9N
 release_date: 2007-09-18
 mike_notes:
 toggle: off

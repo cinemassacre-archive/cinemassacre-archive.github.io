@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 10
 title: DuckTales
 permalink: /mike-and-bootsy/episode-10
-video_id: fBIdOc8NuLE
+video_info:
+  - youtube;YouTube;fBIdOc8NuLE
 release_date: 2016-02-25
 platforms: 
   - Nintendo Entertainment System

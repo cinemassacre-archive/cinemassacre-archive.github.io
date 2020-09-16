@@ -6,8 +6,9 @@ season_episode: 4
 episode: 4
 title: Weapons and Warriors
 permalink: /board-james/episode-4
-video_id: S22FFetltbE
-alt_video_id: 4U_lo4RdvvQ
+video_info:
+  - youtube;YouTube;S22FFetltbE
+  - youtube;Higher quality reupload;4U_lo4RdvvQ
 release_date: 2009-09-08
 title-cards: 
   - episode-4.jpg

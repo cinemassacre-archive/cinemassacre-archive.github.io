@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 13
 title: Taz
 permalink: /mike-and-bootsy/episode-13
-video_id: zPJArGqFu7o
+video_info:
+  - youtube;YouTube;zPJArGqFu7o
 release_date: 2016-03-23
 platforms:
   - Atari 2600

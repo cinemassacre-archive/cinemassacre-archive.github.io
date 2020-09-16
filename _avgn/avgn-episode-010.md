@@ -5,9 +5,10 @@ season: 1
 episode: 10
 title: "Top Gun"
 permalink: /avgn/episode-10
-video_id: ofM11nPzFo0
-alt_video_id: ktRwIqdWdtE
-drive_id: 1gdz9bp6843c56224zFaBAgsuk-WGkrH-
+video_info:
+  - youtube;YouTube;ofM11nPzFo0
+  - youtube;Higher quality reupload;ktRwIqdWdtE
+  - drive;ScrewAttack version;1gdz9bp6843c56224zFaBAgsuk-WGkrH-
 release_date: 2006-09-15
 previous_titles:
   - "Angry Nintendo Nerd: Top Gun"

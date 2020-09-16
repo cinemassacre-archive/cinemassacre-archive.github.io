@@ -6,8 +6,9 @@ season_episode: 2
 episode: 10
 title: TMNT Games
 permalink: /board-james/episode-10
-video_id: c0fgQnyv8D8
-alt_video_id: VFGuYzRjWs0
+video_info:
+  - youtube;YouTube;c0fgQnyv8D8
+  - youtube;Higher quality reupload;VFGuYzRjWs0
 release_date: 2011-05-24
 thumbnails:
 title-cards: 

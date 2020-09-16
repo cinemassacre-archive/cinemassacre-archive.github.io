@@ -5,9 +5,10 @@ season: 1
 episode: 7
 title: "McKids"
 permalink: /avgn/episode-7
-video_id: qVBerX6Dzmc
-alt_video_id: FnxsNhuikpo
-drive_id: 189WMufizUmzutreDWw9O95Fok22h52Kj
+video_info:
+  - youtube;YouTube;qVBerX6Dzmc
+  - youtube;Higher quality reupload;FnxsNhuikpo
+  - drive;ScrewAttack version;189WMufizUmzutreDWw9O95Fok22h52Kj
 release_date: 2006-08-25
 previous_titles:
   - "Angry Nintendo Nerd: McKids"

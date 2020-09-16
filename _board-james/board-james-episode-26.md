@@ -6,7 +6,8 @@ season_episode: 7
 episode: 26
 title: 13 Dead End Drive
 permalink: /board-james/episode-26
-video_id: 5amFRDngyHs
+video_info:
+  - youtube;YouTube;5amFRDngyHs
 release_date: 2015-11-01
 thumbnails: 
 title-cards: 

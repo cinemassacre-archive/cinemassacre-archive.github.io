@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 17
 title: Gremlins
 permalink: /mike-and-bootsy/episode-17
-video_id: yWzfZg9wE7U
+video_info:
+  - youtube;YouTube;yWzfZg9wE7U
 release_date: 2016-04-23
 platforms:
   - Atari 2600

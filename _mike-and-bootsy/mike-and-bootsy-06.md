@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 6
 title: The Simpsons Arcade
 permalink: /mike-and-bootsy/episode-6
-video_id: s6UOR8vHoAM
+video_info:
+  - youtube;YouTube;s6UOR8vHoAM
 release_date: 2016-01-29
 platforms:
   - Microsoft Xbox 360

@@ -5,9 +5,10 @@ season: 2
 episode: 24
 title: "Spider-Man"
 permalink: /avgn/episode-24
-video_id: omW1E7rv7IM
-alt_video_id: 99l5ddWisgM
-drive_id: 1mNZmGSrBzqFVhnHozGJlbqaO-5yqTMMi
+video_info:
+  - youtube;YouTube;omW1E7rv7IM
+  - youtube;Higher quality reupload;99l5ddWisgM
+  - drive;ScrewAttack version;1mNZmGSrBzqFVhnHozGJlbqaO-5yqTMMi
 release_date: 2007-04-17
 toggle: off
 platforms:

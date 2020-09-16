@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 4
 title: Defender
 permalink: /mike-and-bootsy/episode-4
-video_id: wFf5xET-GEQ
+video_info:
+  - youtube;YouTube;wFf5xET-GEQ
 release_date: 2015-12-26
 platforms:
   - Microsoft Xbox 360

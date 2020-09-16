@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 43
 title: Mr. Sandman
 permalink: /mike-and-bootsy/episode-43
-video_id: YoxgAoFteMk
+video_info:
+  - youtube;YouTube;YoxgAoFteMk
 release_date: 2016-11-11
 platforms:
   - Nintendo Entertainment System

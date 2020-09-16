@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 1
 title: Marble Madness
 permalink: /mike-and-bootsy/episode-1
-video_id: eI2QemIE4iM
+video_info:
+  - youtube;YouTube;eI2QemIE4iM
 release_date: 2015-12-06
 platforms:
   - Nintendo Entertainment System

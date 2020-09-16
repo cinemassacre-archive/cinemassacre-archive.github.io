@@ -5,8 +5,9 @@ season: 1
 episode: 2
 title: "Dr. Jekyll and Mr. Hyde"
 permalink: /avgn/episode-2
-video_id: 6M_4Yqk65f8
-drive_id: 1FdnzxYn92KbxIYIj8mldrONjE3XX8upj
+video_info:
+  - youtube;YouTube;6M_4Yqk65f8
+  - drive;ScrewAttack version;1FdnzxYn92KbxIYIj8mldrONjE3XX8upj
 release_date: 2004-05-28
 youtube_date: 2006-04-08
 previous_titles:

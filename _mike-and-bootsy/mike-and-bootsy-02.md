@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 2
 title: Yoshi's Cookie
 permalink: /mike-and-bootsy/episode-2
-video_id: uelo0yvHyVU
+video_info:
+  - youtube;YouTube;uelo0yvHyVU
 release_date: 2015-12-13
 platforms:
   - Nintendo Entertainment System

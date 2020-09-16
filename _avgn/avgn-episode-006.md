@@ -5,10 +5,11 @@ season: 1
 episode: 6
 title: "Back to the Future"
 permalink: /avgn/episode-6
-video_id: y306cWw98a4
-alt_video_id: Si6HEWEH6Oo
-ra_video_id: LpJ00NN6o48
-drive_id: 12EUvpBIEPc2JEoFTP-v5kqZcn51e1Fbh
+video_info:
+  - youtube;YouTube;y306cWw98a4
+  - youtube;YouTube "review archive" version;LpJ00NN6o48
+  - youtube;Higher quality reupload;Si6HEWEH6Oo
+  - drive;ScrewAttack version;12EUvpBIEPc2JEoFTP-v5kqZcn51e1Fbh
 release_date: 2006-07-21
 previous_titles:
   - "Angry Nintendo Nerd: Back to the Future"

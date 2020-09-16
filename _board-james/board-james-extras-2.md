@@ -4,7 +4,8 @@ series: Board James Extras
 episode: 2
 title: Board game collection 2013
 permalink: /board-james/extras-2
-video_id: YWltAwCowZg
+video_info:
+  - youtube;YouTube;YWltAwCowZg
 release_date: 2013-12-18
 thumbnails:
 current_description: |

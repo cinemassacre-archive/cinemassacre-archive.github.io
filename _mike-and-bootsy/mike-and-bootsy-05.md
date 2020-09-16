@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 5
 title: Kung Fu
 permalink: /mike-and-bootsy/episode-5
-video_id: M9WjkXGahxo
+video_info:
+  - youtube;YouTube;M9WjkXGahxo
 release_date: 2016-01-19
 platforms:
   - Nintendo Entertainment System

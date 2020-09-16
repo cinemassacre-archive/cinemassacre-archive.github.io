@@ -5,9 +5,10 @@ season: 1
 episode: 5
 title: "Teenage Mutant Ninja Turtles"
 permalink: /avgn/episode-5
-video_id: XjUz8IT0CYg
-alt_video_id: Po-mwFaz37Y
-drive_id: 1OA2Q6nb7JPkUy1R5PRmBDJVyyvwxrU_1
+video_info:
+  - youtube;YouTube;XjUz8IT0CYg
+  - youtube;Higher quality reupload;Po-mwFaz37Y
+  - drive;ScrewAttack version;1OA2Q6nb7JPkUy1R5PRmBDJVyyvwxrU_1
 release_date: 2006-06-21
 previous_titles:
   - "Angry Nintendo Nerd: Teenage Mutant Ninja Turtles"

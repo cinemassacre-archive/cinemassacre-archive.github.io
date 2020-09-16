@@ -5,9 +5,10 @@ season: 2
 episode: 29
 title: "Independence Day"
 permalink: /avgn/episode-29
-video_id: t475kPIEXPg
-alt_video_id: DEgeQyx_9Uw
-drive_id: 1GPQmCvEs6SE1kdv-QSZHfY1iUPzHb1tI
+video_info:
+  - youtube;YouTube;t475kPIEXPg
+  - youtube;Higher quality reupload;DEgeQyx_9Uw
+  - drive;ScrewAttack version;1GPQmCvEs6SE1kdv-QSZHfY1iUPzHb1tI
 release_date: 2007-07-03
 toggle: off
 platforms:

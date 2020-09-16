@@ -5,9 +5,10 @@ season: 2
 episode: 36
 title: "Halloween"
 permalink: /avgn/episode-36
-video_id: a0G_8gHDsL8
-ra_video_id: GaXFZ8mEY0o
-drive_id: 1KWa9AOz1v4EAwOF3-lSiZL_vrK1vmwNM
+video_info:
+  - youtube;YouTube;a0G_8gHDsL8
+  - youtube;YouTube "review archive" version;GaXFZ8mEY0o
+  - drive;ScrewAttack version;1KWa9AOz1v4EAwOF3-lSiZL_vrK1vmwNM
 release_date: 2007-10-30
 toggle: off
 platforms:

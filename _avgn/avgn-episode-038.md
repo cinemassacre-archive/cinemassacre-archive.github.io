@@ -5,9 +5,10 @@ season: 2
 episode: 38
 title: "An Angry Nerd Christmas Carol: Part 1"
 permalink: /avgn/episode-38
-video_id: CyqK8wqwYmc
-alt_video_id: EKdPd3kfMqo
-drive_id: 18g0YIwzDe_IbGClVLGbU_LxAA8Y7cJFP
+video_info:
+  - youtube;YouTube;CyqK8wqwYmc
+  - youtube;Higher quality reupload;EKdPd3kfMqo
+  - drive;ScrewAttack version;18g0YIwzDe_IbGClVLGbU_LxAA8Y7cJFP
 release_date: 2007-12-18
 toggle: off
 platforms:

@@ -5,8 +5,9 @@ season: 1
 episode: 1
 title: "Castlevania II: Simon's Quest"
 permalink: /avgn/episode-1
-video_id: V4we8iFk-fY
-drive_id: 13skblw8wTJDYbq6V06NS5uIwBWwUkJj7
+video_info:
+  - youtube;YouTube;V4we8iFk-fY
+  - drive;ScrewAttack version;13skblw8wTJDYbq6V06NS5uIwBWwUkJj7
 release_date: 2004-05-25
 youtube_date: 2006-04-08
 previous_titles: 

@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 26
 title: Super Wario Bros.
 permalink: /mike-and-bootsy/episode-26
-video_id: 6w6gm15xwlc
+video_info:
+  - youtube;YouTube;6w6gm15xwlc
 release_date: 2016-07-08
 platforms:
   - Nintendo Entertainment System

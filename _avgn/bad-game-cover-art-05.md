@@ -4,7 +4,8 @@ series: Angry Video Game Nerd - Bad Game Cover Art
 episode: 5
 title: "Shingen The Ruler"
 permalink: /avgn/bad-game-cover-art-5
-video_id: oWU9BCqCJKE
+video_info:
+  - youtube;YouTube;oWU9BCqCJKE
 release_date: 2015-12-05
 mike_notes:
 toggle: off

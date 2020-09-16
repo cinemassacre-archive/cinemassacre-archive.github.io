@@ -3,7 +3,8 @@ layout: video
 series: Angry Video Game Nerd - Bad Game Cover Art
 title: "The Complete Marathon!"
 permalink: /avgn/bad-game-cover-art-complete
-video_id: Qh5S1eG1aBA
+video_info:
+  - youtube;YouTube;Qh5S1eG1aBA
 release_date: 2015-12-26
 mike_notes:
 toggle: off

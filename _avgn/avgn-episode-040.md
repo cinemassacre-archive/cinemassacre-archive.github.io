@@ -5,8 +5,9 @@ season: 2
 episode: 40
 title: "Chronologically Confused 2: The Legend of Zelda Timeline"
 permalink: /avgn/episode-40
-video_id: cHIP9UtkQDQ
-drive_id: 1lI3m04JPLC6FwD8v-PW7o7ZIyJywnmNY
+video_info:
+  - youtube;YouTube;cHIP9UtkQDQ
+  - drive;ScrewAttack version;1lI3m04JPLC6FwD8v-PW7o7ZIyJywnmNY
 release_date: 2008-01-08
 mike_notes:
 toggle: off

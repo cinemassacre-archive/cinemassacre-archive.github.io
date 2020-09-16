@@ -5,8 +5,9 @@ season: 1
 episode: 15
 title: "Chronologically Confused About Bad Movie and Video Game Sequel Titles"
 permalink: /avgn/episode-15
-video_id: OEVzPCY2T-g
-drive_id: 18tNi0i26sexKCBnZezerXNADdDUi7szT
+video_info:
+  - youtube;YouTube;OEVzPCY2T-g
+  - drive;ScrewAttack version;18tNi0i26sexKCBnZezerXNADdDUi7szT
 release_date: 2006-11-28
 toggle: off
 title-cards:

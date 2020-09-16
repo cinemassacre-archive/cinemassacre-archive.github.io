@@ -6,7 +6,8 @@ season_episode: 6
 episode: 25
 title: Video Games !!
 permalink: /board-james/episode-25
-video_id: IgRWCBiwY8A
+video_info:
+  - youtube;YouTube;IgRWCBiwY8A
 release_date: 2015-09-05
 thumbnails:
 title-cards: 

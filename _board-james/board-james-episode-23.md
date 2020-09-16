@@ -6,7 +6,8 @@ season_episode: 4
 episode: 23
 title: Wacky Blasters
 permalink: /board-james/episode-23
-video_id: b80V09f3Kok
+video_info:
+  - youtube;YouTube;b80V09f3Kok
 release_date: 2015-07-03
 thumbnails:
 title-cards: 

@@ -6,8 +6,9 @@ season_episode: 5
 episode: 5
 title: Fireball Island
 permalink: /board-james/episode-5
-video_id: AfA6KxGAdOk
-alt_video_id: xYfZZBIQkr8
+video_info:
+  - youtube;YouTube;AfA6KxGAdOk
+  - youtube;Higher quality reupload;xYfZZBIQkr8
 release_date: 2010-01-18
 thumbnails:
 title-cards: 

@@ -5,9 +5,10 @@ season: 1
 episode: 8
 title: "Wally Bear and the NO! Gang"
 permalink: /avgn/episode-8
-video_id: QVS0Uks4ZUw
-alt_video_id: ihJo0jmX9gk
-drive_id: 1FeszWm-Uw4NAapjzWO3J_dmnU4bHiLIw
+video_info:
+  - youtube;YouTube;QVS0Uks4ZUw
+  - youtube;Higher quality reupload;ihJo0jmX9gk
+  - drive;ScrewAttack version;1FeszWm-Uw4NAapjzWO3J_dmnU4bHiLIw
 release_date: 2006-09-01
 previous_titles:
   - "Angry Nintendo Nerd: Wally Bear and the NO! Gang"

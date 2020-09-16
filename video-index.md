@@ -15,7 +15,7 @@ title: Cinemassacre Video Index
 <a href="#1997">1997</a> | 
 <a href="#1998">1998</a> | 
 <a href="#1999">1999</a> | 
-<a href="#1999">2000</a></p>
+<a href="#2000">2000</a></p>
 
 {% for video in site.other-videos %}
 {% assign currentSection = video.release_date | date: "%Y" %}

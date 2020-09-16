@@ -5,9 +5,10 @@ season: 2
 episode: 20
 title: "Atari 5200"
 permalink: /avgn/episode-20
-video_id: AknyR-kRvLc
-alt_video_id: 2TpCgwihyaM
-drive_id: 1_hCcOitFgDMeSvZ4xqDnAVpZYOHZrx4V
+video_info:
+  - youtube;YouTube;AknyR-kRvLc
+  - youtube;Higher quality reupload;2TpCgwihyaM
+  - drive;ScrewAttack version;1_hCcOitFgDMeSvZ4xqDnAVpZYOHZrx4V
 release_date: 2007-02-13
 toggle: off
 platforms: 

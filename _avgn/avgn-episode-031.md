@@ -5,9 +5,10 @@ season: 2
 episode: 31
 title: "The Bugs Bunny Birthday Blowout"
 permalink: /avgn/episode-31
-video_id: M1tU61Nyv1w
-alt_video_id: ckzs8__ivzY
-drive_id: 1go8ggUHN9_MRVYN9ZLLGx1RYfdCoKv-W
+video_info:
+  - youtube;YouTube;M1tU61Nyv1w
+  - youtube;Higher quality reupload;ckzs8__ivzY
+  - drive;ScrewAttack version;1go8ggUHN9_MRVYN9ZLLGx1RYfdCoKv-W
 release_date: 2007-08-07
 mike_notes:
 toggle: off

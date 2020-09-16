@@ -5,9 +5,10 @@ season: 2
 episode: 21
 title: "Ghostbusters"
 permalink: /avgn/episode-21
-video_id: TLVGmvmNitg
-alt_video_id: Gip-_Fh2Yx0
-drive_id: 1Xna2RHF19D7r1Nc1cqAyfYjOoh3czCZR
+video_info:
+  - youtube;YouTube;TLVGmvmNitg
+  - youtube;Higher quality reupload;Gip-_Fh2Yx0
+  - drive;ScrewAttack version;1Xna2RHF19D7r1Nc1cqAyfYjOoh3czCZR
 release_date: 2007-02-27
 toggle: off
 platforms: 

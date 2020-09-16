@@ -5,7 +5,8 @@ season: 9
 episode: 136
 title: "Seaman"
 permalink: /avgn/episode-136
-video_id: -IV8hCvsXy0
+video_info:
+  - youtube;YouTube;-IV8hCvsXy0
 release_date: 2015-07-29
 mike_notes:
 toggle: off

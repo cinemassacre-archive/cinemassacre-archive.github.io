@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 18
 title: Luigi's Chronicles 2
 permalink: /mike-and-bootsy/episode-18
-video_id: _-Po5rji7MI
+video_info:
+  - youtube;YouTube;_-Po5rji7MI
 release_date: 2016-04-27
 platforms:
   - Nintendo Entertainment System

@@ -5,9 +5,10 @@ season: 2
 episode: 30
 title: "The Simpsons"
 permalink: /avgn/episode-30
-video_id: mKnl0CvfeLs
-alt_video_id: klUaSplIquI
-drive_id: 1HY10MzRakoXmEouqgyAF3HKMOMNTb_aG
+video_info:
+  - youtube;YouTube;mKnl0CvfeLs
+  - youtube;Higher quality reupload;klUaSplIquI
+  - drive;ScrewAttack version;1HY10MzRakoXmEouqgyAF3HKMOMNTb_aG
 release_date: 2007-07-17
 mike_notes:
 toggle: off

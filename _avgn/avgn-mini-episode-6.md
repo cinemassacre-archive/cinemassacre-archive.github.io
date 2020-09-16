@@ -4,7 +4,8 @@ series: Angry Video Game Nerd Minis
 episode: 6
 title: "Danny Sullivan's Indy Heat"
 permalink: /avgn/mini-episode-6
-video_id: xIs0p9vqQr0
+video_info:
+  - youtube;YouTube;xIs0p9vqQr0
 release_date: 2015-11-11
 mike_notes:
 toggle: off

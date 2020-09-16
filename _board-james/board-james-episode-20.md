@@ -6,7 +6,8 @@ season_episode: 1
 episode: 20
 title: Omega Virus
 permalink: /board-james/episode-20
-video_id: agWOv1KUtQc
+video_info:
+  - youtube;YouTube;agWOv1KUtQc
 release_date: 2015-04-01
 thumbnails:
 title-cards: 

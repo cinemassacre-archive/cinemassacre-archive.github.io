@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 28
 title: Breakout
 permalink: /mike-and-bootsy/episode-28
-video_id: UHluhskkbo8
+video_info:
+  - youtube;YouTube;UHluhskkbo8
 release_date: 2016-07-21
 platforms:
   - Atari 2600

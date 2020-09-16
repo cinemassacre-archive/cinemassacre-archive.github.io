@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 49
 title: McKids Part 2 of 2
 permalink: /mike-and-bootsy/episode-49
-video_id: pj-8a1NapJY
+video_info:
+  - youtube;YouTube;pj-8a1NapJY
 release_date: 2016-12-21
 platforms:
   - Nintendo Entertainment System

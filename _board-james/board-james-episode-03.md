@@ -6,8 +6,9 @@ season_episode: 3
 episode: 3
 title: Crossfire
 permalink: /board-james/episode-3
-video_id: _wibltmswYU
-alt_video_id: W9hW5gVaNJo
+video_info:
+  - youtube;YouTube;_wibltmswYU
+  - youtube;Higher quality reupload;W9hW5gVaNJo
 release_date: 2009-07-17
 thumbnails:
 title-cards: 

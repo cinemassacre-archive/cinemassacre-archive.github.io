@@ -5,10 +5,11 @@ season: 2
 episode: 35
 title: "The Texas Chainsaw Massacre"
 permalink: /avgn/episode-35
-video_id: bVtwVXMPBY8
-alt_video_id: mc8xMJrOP-E
-ra_rideo_id: Rw-icIWTYOk
-drive_id: 1tZBfmp8Kfl9FiAkWz_zXYUTMxjmJHPt8
+video_info:
+  - youtube;YouTube;bVtwVXMPBY8
+  - youtube;YouTube "review archive" version;Rw-icIWTYOk
+  - youtube;Higher quality reupload;mc8xMJrOP-E
+  - drive;ScrewAttack version;1tZBfmp8Kfl9FiAkWz_zXYUTMxjmJHPt8
 release_date: 2007-10-09
 mike_notes:
 toggle: off

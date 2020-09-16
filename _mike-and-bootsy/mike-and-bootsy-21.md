@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 21
 title: Win, Lose or Draw
 permalink: /mike-and-bootsy/episode-21
-video_id: 5UaDepGRB3I
+video_info:
+  - youtube;YouTube;5UaDepGRB3I
 release_date: 2016-05-25
 platforms:
   - Nintendo Entertainment System

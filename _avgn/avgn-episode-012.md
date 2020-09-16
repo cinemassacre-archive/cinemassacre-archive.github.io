@@ -5,10 +5,11 @@ season: 1
 episode: 12
 title: "Friday the 13th"
 permalink: /avgn/episode-12
-video_id: 1raUvGNbZFg
-ra_video_id: boDyAHo2fL0
-alt_video_id: Dfs6TFqg0cU
-drive_id: 1J0Bb3siEIJAuUdGfBCyz5m6VX1-ONl4U
+video_info:
+  - youtube;YouTube;1raUvGNbZFg
+  - youtube;YouTube "review archive" version;boDyAHo2fL0
+  - youtube;Higher quality reupload;Dfs6TFqg0cU
+  - drive;ScrewAttack version;1J0Bb3siEIJAuUdGfBCyz5m6VX1-ONl4U
 release_date: 2006-10-13
 previous_titles:
   - "Angry Nintendo Nerd: Friday the 13th"

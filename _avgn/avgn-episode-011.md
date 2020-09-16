@@ -5,9 +5,10 @@ season: 1
 episode: 11
 title: "Double Dragon III"
 permalink: /avgn/episode-11
-video_id: kMg6_IXCjo4
-alt_video_id: mkqFKqw9BfA
-drive_id: 1Mj4cBjz1T4-DwMQBIX-W4lYYp4CRK5OY
+video_info:
+  - youtube;YouTube;kMg6_IXCjo4
+  - youtube;Higher quality reupload;mkqFKqw9BfA
+  - drive;ScrewAttack version;1Mj4cBjz1T4-DwMQBIX-W4lYYp4CRK5OY
 release_date: 2006-09-22
 previous_titles:
   - "Angry Nintendo Nerd: Double Dragon III"

@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 47
 title: Sega Genesis Classic Game Console 2016
 permalink: /mike-and-bootsy/episode-47
-video_id: bDnbA0jfaMY
+video_info:
+  - youtube;YouTube;bDnbA0jfaMY
 release_date: 2016-12-08
 platforms:
   - Sega Genesis Classic Game Console

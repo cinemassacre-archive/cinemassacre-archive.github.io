@@ -5,9 +5,10 @@ season: 2
 episode: 33
 title: "Nintendo Power"
 permalink: /avgn/episode-33
-video_id: eegQI9WM6mk
-alt_video_id: DC1zkSmjBqU
-drive_id: 1gXvmKQ9QX0VLOPqpXm9i8z2p-3J75yof
+video_info:
+  - youtube;YouTube;eegQI9WM6mk
+  - youtube;Higher quality reupload;DC1zkSmjBqU
+  - drive;ScrewAttack version;1gXvmKQ9QX0VLOPqpXm9i8z2p-3J75yof
 release_date: 2007-09-04
 mike_notes:
 toggle: off

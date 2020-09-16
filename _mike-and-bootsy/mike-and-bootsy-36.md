@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 36
 title: Super Monkey Ball
 permalink: /mike-and-bootsy/episode-36
-video_id: cBNdEXXXpCg
+video_info:
+  - youtube;YouTube;cBNdEXXXpCg
 release_date: 2016-09-22
 platforms:
   - Nintendo Gamecube

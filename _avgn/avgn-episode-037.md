@@ -5,9 +5,10 @@ season: 2
 episode: 37
 title: "Dragon's Lair"
 permalink: /avgn/episode-37
-video_id: 00xIvTOLrYA
-alt_video_id: ibrK3DXnHkM
-drive_id: 1shsbHA2XbaCOTRMWdJP201eR69tnf4Ct
+video_info:
+  - youtube;YouTube;00xIvTOLrYA
+  - youtube;Higher quality reupload;ibrK3DXnHkM
+  - drive;ScrewAttack version;1shsbHA2XbaCOTRMWdJP201eR69tnf4Ct
 release_date: 2007-11-20
 toggle: off
 platforms:

@@ -5,9 +5,10 @@ season: 2
 episode: 19
 title: "Teenage Mutant Ninja Turtles III Part 2"
 permalink: /avgn/episode-19
-video_id: FG1BrjkKSiU
-ra_video_id: 9vz6X48e_fg
-drive_id: 1Rd9cMuW124JSOzJ2CS1rUzi8UasevXAf
+video_info:
+  - youtube;YouTube "review archive" version;FG1BrjkKSiU
+  - youtube;YouTube "review archive" version 2;9vz6X48e_fg
+  - drive;ScrewAttack version;1Rd9cMuW124JSOzJ2CS1rUzi8UasevXAf
 release_date: 2007-01-25
 toggle: off
 platforms: 

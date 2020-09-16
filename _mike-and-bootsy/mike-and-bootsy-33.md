@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 33
 title: Kung Fu 2
 permalink: /mike-and-bootsy/episode-33
-video_id: 0aKkL46xLP8
+video_info:
+  - youtube;YouTube;0aKkL46xLP8
 release_date: 2016-08-31
 platforms:
   - Nintendo Entertainment System

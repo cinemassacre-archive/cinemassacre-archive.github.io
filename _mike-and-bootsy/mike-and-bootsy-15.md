@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 15
 title: Pilotwings Part 1
 permalink: /mike-and-bootsy/episode-15
-video_id: H5Sm2Q6FCfo
+video_info:
+  - youtube;YouTube;H5Sm2Q6FCfo
 release_date: 2016-04-13
 platforms:
   - Super Nintendo Entertainment System

@@ -4,7 +4,8 @@ series: Mike and Bootsy
 episode: 45
 title: Balloon Fight
 permalink: /mike-and-bootsy/episode-45
-video_id: xDhaLf2-Mu0
+video_info:
+  - youtube;YouTube;xDhaLf2-Mu0
 release_date: 2016-11-22
 platforms:
   - Nintendo Entertainment System
