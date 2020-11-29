@@ -14,10 +14,14 @@ mike_notes:
 toggle: off
 platforms:
   - Nintendo Entertainment System
+  - Sega Master System
 short_platforms:
   - NES
+  - Master System
 games:
-  - Rambo
+  - Rambo (NES)
+  - Rambo (Master System)
+  - Rambo III
 title-cards:
   - episode-41.png
 ---
