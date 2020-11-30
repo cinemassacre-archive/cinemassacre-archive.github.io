@@ -17,6 +17,8 @@ short_platforms:
   - Atari 2600
 games:
   - Halloween
+  - Haunted House
+  - Frankenstein's Monster
 title-cards:
   - episode-36.jpg
 ---
