@@ -13,9 +13,9 @@ mike_notes:
 toggle: off
 platforms:
   - Nintendo Entertainment System
-  - Gameboy
-  - Gameboy Color
-  - Gameboy Advance
+  - Nintendo Gameboy
+  - Nintendo Gameboy Color
+  - Nintendo Gameboy Advance
 short_platforms:
   - NES
   - Gameboy

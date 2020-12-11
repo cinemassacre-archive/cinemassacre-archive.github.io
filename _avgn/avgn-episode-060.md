@@ -12,9 +12,9 @@ release_date: 2008-11-25
 mike_notes:
 toggle: off
 platforms:
-  - Compact Disc-Interactive
+  - Philips CD-i
 short_platforms:
-  - CD-I
+  - CD-i
 games:
   - Zelda: The Wand of Gamelon
 title-cards:

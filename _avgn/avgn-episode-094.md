@@ -26,7 +26,7 @@ games:
   - Back To The Future
   - Back To The Future Part II & III
   - Back To The Future III
-  - Super Back To The Future II (Famicom)
+  - Super Back To The Future II (Super Famicom)
 title-cards:
   - episode-94.jpg
   - episode-94b.jpg

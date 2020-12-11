@@ -13,7 +13,7 @@ mike_notes:
 toggle: off
 platforms:
   - Commodore 64
-  - Nintendo Family Computer
+  - Nintendo Entertainment System
 short_platforms:
   - C64
   - Famicom

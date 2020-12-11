@@ -13,7 +13,7 @@ mike_notes:
 toggle: off
 platforms:
   - Nintendo Entertainment System
-  - Gameboy
+  - Nintendo Gameboy
   - Super Nintendo Entertainment System
 short_platforms:
   - NES

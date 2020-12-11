@@ -12,9 +12,9 @@ release_date: 2008-12-09
 mike_notes:
 toggle: off
 platforms:
-  - Compact Disc-Interactive
+  - Philips CD-i
 short_platforms:
-  - CD-I
+  - CD-i
 games:
   - Link: The Faces of Evil
   - Zelda's Adventure
