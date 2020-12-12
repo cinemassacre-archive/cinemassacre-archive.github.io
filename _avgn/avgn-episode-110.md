@@ -10,4 +10,14 @@ video_info:
 release_date: 2013-03-06
 mike_notes:
 toggle: off
+platforms:
+  - Nintendo Entertainment System
+short_platforms:
+  - NES
+games:
+  - Ikari Warriors
 ---
+
+<p class="yt-description">YouTube description:</p>
+
+In this episode, the Nerd decides to take on the arcade classic Ikari Warriors for the NES. After constant deaths and ABBAs, the Nerd decides he's in need of a player 2, so after reviving the lifeless corpse of the Guitar Guy, they must wade their way through cartons of milk and hairless scrotum guns. Where did the hair go? This is Angry Videogame Nerd episode 110.
