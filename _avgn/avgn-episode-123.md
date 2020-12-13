@@ -10,4 +10,16 @@ video_info:
 release_date: 2014-12-12
 mike_notes:
 toggle: off
+platforms:
+  - Sega Master System
+short_platforms:
+  - Master System
+games:
+  - ALF
 ---
+
+<p class="yt-description">YouTube description:</p>
+
+Welcome back! It's day two of the Nerd's "12 Days of Shitsmas" Today the Nerd is reviewing ALF for the Sega Master System!
+
+This is Angry Videogame Nerd episode 123

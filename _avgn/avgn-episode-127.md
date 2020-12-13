@@ -10,4 +10,16 @@ video_info:
 release_date: 2014-12-16
 mike_notes:
 toggle: off
+platforms:
+  - Nintendo Gameboy Color
+short_platforms:
+  - GBC
+games:
+  - Mary-Kate and Ashley 'Get a Clue'
 ---
+
+<p class="yt-description">YouTube description:</p>
+
+You remember them from Full House. Now see Mary-Kate and Ashley in their own video game for Game Boy Color!
+
+This is Angry Videogame Nerd episode 127.
