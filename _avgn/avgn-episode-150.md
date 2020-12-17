@@ -11,3 +11,9 @@ release_date: 2017-10-25
 mike_notes:
 toggle: off
 ---
+
+<p class="yt-description">YouTube description:</p>
+
+The Nerd takes a look at the arcade classic Polybius, while he also delves into the urban legend surrounding the mentioned side effects of playing the game.
+
+This is Angry Videogame Nerd episode 150.

@@ -10,4 +10,14 @@ video_info:
 release_date: 2018-10-11
 mike_notes:
 toggle: off
+platforms:
+  - Sony PlayStation
+short_platforms:
+  - PS1
+games:
+  - Resident Evil Survivor
 ---
+
+<p class="yt-description">YouTube description:</p>
+
+For the annual Halloween Special, the Nerd reviews Resident Evil Survivor for the PlayStation. This is Angry Videogame Nerd episode 160.
