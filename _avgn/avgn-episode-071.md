@@ -21,9 +21,9 @@ short_platforms:
   - Gameboy
 games:
   - T2 - The Arcade Game
-  - Terminator 2: Judgment Day (NES)
-  - Terminator 2: Judgment Day (Gameboy)
-  - Terminator 2: Judgment Day (SNES)
+  - "Terminator 2: Judgment Day (NES)"
+  - "Terminator 2: Judgment Day (Gameboy)"
+  - "Terminator 2: Judgment Day (SNES)"
 title-cards:
   - episode-71.jpg
 ---

@@ -15,11 +15,11 @@ platforms:
 short_platforms:
   - PS1
 games:
-  - K9.5: Live in Airedale
-  - KazMania: Trail of Gems
+  - "K9.5: Live in Airedale"
+  - "KazMania: Trail of Gems"
   - P.K.S Math Studio
   - Math on the Move! Addition/Subtraction
-  - Calamity: The Natural World
+  - "Calamity: The Natural World"
 ---
 
 <p class="yt-description">YouTube description:</p>

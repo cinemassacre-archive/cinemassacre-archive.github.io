@@ -18,7 +18,7 @@ short_platforms:
 games:
   - Montezuma's Revenge
   - Rocky
-  - Cabbage Patch Kids: Adventures in the Park
+  - "Cabbage Patch Kids: Adventures in the Park"
   - Campaign '84
   - Chuck Norris Superkicks
   - Dance Fantasy

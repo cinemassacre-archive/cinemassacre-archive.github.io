@@ -15,7 +15,7 @@ platforms:
 short_platforms:
   - PS1
 games:
-  - Star Wars: Masters of Teras Kasi
+  - "Star Wars: Masters of Teras Kasi"
 ---
 
 <p class="yt-description">YouTube description:</p>

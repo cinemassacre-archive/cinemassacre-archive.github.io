@@ -19,7 +19,7 @@ short_platforms:
   - PS1
 games:
   - Castlevania Bloodlines
-  - Castlevania: Symphony of the Night 
+  - "Castlevania: Symphony of the Night"
 title-cards:
   - episode-82.jpg
 ---

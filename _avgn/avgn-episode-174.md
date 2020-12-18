@@ -24,10 +24,10 @@ short_platforms:
   - PS2
 games:
   - Spawn
-  - Todd McFarlane's Spawn: The Video Game
-  - Spawn: The Eternal
-  - Spawn: In the Demon's Hand
-  - Spawn: Armageddon
+  - "Todd McFarlane's Spawn: The Video Game"
+  - "Spawn: The Eternal"
+  - "Spawn: In the Demon's Hand"
+  - "Spawn: Armageddon"
 ---
 
 <p class="yt-description">YouTube description:</p>

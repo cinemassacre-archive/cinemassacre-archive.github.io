@@ -18,7 +18,7 @@ short_platforms:
   - TG-16
 games:
   - Moon Ranger
-  - Kid Niki: Radical Ninja
+  - "Kid Niki: Radical Ninja"
   - Dudes with Attitude
   - Deathbots
   - Mad Max

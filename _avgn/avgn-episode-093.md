@@ -17,7 +17,7 @@ short_platforms:
   - NES
 games:
   - The Legend of Zelda
-  - Zelda II: The Adventure of Link
+  - "Zelda II: The Adventure of Link"
 title-cards:
   - episode-93.jpg
 ---

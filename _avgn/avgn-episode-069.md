@@ -21,7 +21,7 @@ games:
   - The Uncanny X-Men
   - Wolverine
   - X-Men
-  - X-Men 2: Clone Wars
+  - "X-Men 2: Clone Wars"
 title-cards:
   - episode-69.jpg
 ---

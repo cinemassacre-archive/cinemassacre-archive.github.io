@@ -15,7 +15,7 @@ platforms:
 short_platforms:
   - N64
 games:
-  - Mortal Kombat Mythologies: Sub-Zero
+  - "Mortal Kombat Mythologies: Sub-Zero"
 ---
 
 <p class="yt-description">YouTube description:</p>

@@ -22,8 +22,8 @@ games:
   - Noah's Ark
   - Joshua
   - Menace Beach
-  - Sunday Funday: The Ride
-  - Moses: The Exodus
+  - "Sunday Funday: The Ride"
+  - "Moses: The Exodus"
   - David and Goliath
   - Samson
 title-cards:

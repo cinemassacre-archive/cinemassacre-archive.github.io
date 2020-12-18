@@ -18,7 +18,7 @@ short_platforms:
   - NES
 games:
   - Penn & Teller's Smoke and Mirrors
-  - Castlevania II: Simon's Quest Redacted (bt The Almighty Guru)
+  - "Castlevania II: Simon's Quest Redacted (bt The Almighty Guru)"
 ---
 
 <p class="yt-description">YouTube description:</p>

@@ -24,7 +24,7 @@ games:
   - Home Improvement
   - Pit Fighter
   - Bubsy 3-D
-  - Spider-Man: Maximum Carnage
+  - "Spider-Man: Maximum Carnage"
 ---
 
 <p class="yt-description">YouTube description:</p>

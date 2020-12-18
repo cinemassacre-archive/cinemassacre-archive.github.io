@@ -18,7 +18,7 @@ short_platforms:
   - C64
   - N64
 games:
-  - Superman: The Man of Steel
+  - "Superman: The Man of Steel"
   - Superman 64
 title-cards:
   - episode-51.jpg

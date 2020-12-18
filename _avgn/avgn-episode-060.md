@@ -16,7 +16,7 @@ platforms:
 short_platforms:
   - CD-i
 games:
-  - Zelda: The Wand of Gamelon
+  - "Zelda: The Wand of Gamelon"
 title-cards:
   - episode-60.jpg
 ---

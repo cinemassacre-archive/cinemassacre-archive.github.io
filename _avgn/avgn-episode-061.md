@@ -16,7 +16,7 @@ platforms:
 short_platforms:
   - CD-i
 games:
-  - Link: The Faces of Evil
+  - "Link: The Faces of Evil"
   - Zelda's Adventure
 title-cards:
   - episode-61.jpg

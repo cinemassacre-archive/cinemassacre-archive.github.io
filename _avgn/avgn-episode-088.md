@@ -16,9 +16,9 @@ platforms:
 short_platforms:
   - Atari 2600
 games:
-  - SwordQuest: EarthWorld
-  - SwordQuest: FireWorld
-  - SwordQuest: WaterWorld
+  - "SwordQuest: EarthWorld"
+  - "SwordQuest: FireWorld"
+  - "SwordQuest: WaterWorld"
 title-cards:
   - episode-88.jpg
 ---

@@ -15,17 +15,18 @@ toggle: off
 platforms:
   - Vectrex
   - Atari 2600
-  - Coleco Vision
+  - ColecoVision
   - Nintendo Entertainment System
 short_platforms:
   - Vectrex
   - Atari 2600
-  - Coleco Vision
+  - ColecoVision
   - NES
 games:
-  - Star Trek: The Motion Picture
-  - Star Trek: Strategic Operations Simulator
-  - Star Trek: 25th Anniversary
+  - "Star Trek: The Motion Picture"
+  - "Star Trek: Strategic Operations Simulator (Atari 2600)"
+  - "Star Trek: Strategic Operations Simulator (ColecoVision)"
+  - "Star Trek: 25th Anniversary"
 title-cards:
   - episode-49.jpg
 ---

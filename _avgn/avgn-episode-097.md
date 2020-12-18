@@ -25,24 +25,24 @@ short_platforms:
   - SNES
 games:
   - Wall Street Kid
-  - Toki: Going Ape Spit
+  - "Toki: Going Ape Spit"
   - Killing Time
   - Altered Beast
   - Last Action Hero
   - Double Dragon
-  - S.C.A.T.: Special Cybernetic Attack Team
+  - "S.C.A.T.: Special Cybernetic Attack Team"
   - Ballz 3D
   - McDonald's Treasure Land Adventure
-  - Ultraman: Towards the Future
+  - "Ultraman: Towards the Future"
   - Marsupilami
   - Mad Max
-  - Taboo: The Sixth Sense
+  - "Taboo: The Sixth Sense"
   - Bigfoot
   - Pit Fighter
   - Skate or Die!
   - T&C Surf Designs
   - Circus Caper
-  - Puss 'N Boots: Pero's Great Adventure
+  - "Puss 'N Boots: Pero's Great Adventure"
   - Fist of the North Star
 ---
 

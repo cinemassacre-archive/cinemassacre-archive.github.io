@@ -19,7 +19,7 @@ short_platforms:
   - Famicom
 games:
   - The Transformers
-  - Transformers: Convoy no Nazo
+  - "Transformers: Convoy no Nazo"
 title-cards:
   - episode-72.jpg
 ---

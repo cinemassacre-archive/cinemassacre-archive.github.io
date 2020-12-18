@@ -21,17 +21,17 @@ short_platforms:
   - NES
   - N64
 games:
-  - Star Wars: The Arcade Game
-  - Star Wars: The Empire Strikes Back (Atari 2600)
-  - Star Wars Return of the Jedi: Death Star Battle
-  - Star Wars: Jedi Arena
+  - "Star Wars: The Arcade Game"
+  - "Star Wars: The Empire Strikes Back (Atari 2600)"
+  - "Star Wars Return of the Jedi: Death Star Battle"
+  - "Star Wars: Jedi Arena"
   - Star Wars (Famicom)
   - Star Wars (NES)
-  - Star Wars: The Empire Strikes Back (NES)
+  - "Star Wars: The Empire Strikes Back (NES)"
   - Super Star Wars
-  - Super Star Wars: The Empire Strikes Back
-  - Super Star Wars: Return of the Jedi
-  - Star Wars: Shadows of the Empire
+  - "Super Star Wars: The Empire Strikes Back"
+  - "Super Star Wars: Return of the Jedi"
+  - "Star Wars: Shadows of the Empire"
 title-cards:
   - episode-99.jpg
 ---

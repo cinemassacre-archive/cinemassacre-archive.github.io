@@ -15,7 +15,7 @@ platforms:
 short_platforms:
   - PC
 games:
-  - Jurassic Park: Trespasser
+  - "Jurassic Park: Trespasser"
 ---
 
 <p class="yt-description">YouTube description:</p>

@@ -16,8 +16,8 @@ platforms:
 short_platforms:
   - NES
 games:
-  - Castlevania II: Simon's Quest
-  - Castlevania III: Dracula's Curse
+  - "Castlevania II: Simon's Quest"
+  - "Castlevania III: Dracula's Curse"
 title-cards:
   - episode-80.jpg
 ---

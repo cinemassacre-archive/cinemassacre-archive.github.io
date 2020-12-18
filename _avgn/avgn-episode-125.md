@@ -15,7 +15,7 @@ platforms:
 short_platforms:
   - SNES
 games:
-  - Ren & Stimpy: Fire Dogs
+  - "Ren & Stimpy: Fire Dogs"
 ---
 
 <p class="yt-description">YouTube description:</p>

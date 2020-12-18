@@ -22,7 +22,7 @@ short_platforms:
   - SNES
   - Atari Lynx
 games:
-  - Batman: The Caped Crusader
+  - "Batman: The Caped Crusader"
   - Batman
   - Batman Returns (SNES)
   - Batman Returns (Atari Lynx)

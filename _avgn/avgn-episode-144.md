@@ -28,12 +28,12 @@ games:
   - Choujin Sentai Jetman (Famicom)
   - Kyoryu Sentai Zyuranger (Famicom)
   - Mighty Morphin Power Rangers (SNES)
-  - Mighty Morphin Power Rangers: The Movie (SNES)
+  - "Mighty Morphin Power Rangers: The Movie (SNES)"
   - Mighty Morphin Power Rangers (Genesis)
   - Mighty Morphin Power Rangers (Sega CD)
-  - Power Rangers: Lightspeed Rescue
+  - "Power Rangers: Lightspeed Rescue"
   - Mighty Morphin Power Rangers (Gameboy)
-  - Mighty Morphin Power Rangers: The Movie (Gameboy)
+  - "Mighty Morphin Power Rangers: The Movie (Gameboy)"
 ---
 
 <p class="yt-description">YouTube description:</p>

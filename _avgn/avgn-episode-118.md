@@ -15,7 +15,7 @@ platforms:
 short_platforms:
   - PC
 games:
-  - Big Rigs: Over the Road Racing
+  - "Big Rigs: Over the Road Racing"
 ---
 
 <p class="yt-description">YouTube description:</p>

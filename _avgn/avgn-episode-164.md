@@ -18,9 +18,9 @@ short_platforms:
   - Genesis
 games:
   - Home Alone (SNES)
-  - Home Alone 2: Lost in New York (SNES)
+  - "Home Alone 2: Lost in New York (SNES)"
   - Home Alone (Genesis)
-  - Home Alone 2: Lost in New York (Genesis)
+  - "Home Alone 2: Lost in New York (Genesis)"
 ---
 
 <p class="yt-description">YouTube description:</p>

@@ -37,7 +37,7 @@ games:
   - Super Mario Bros. 3
   - Super Mario World
   - Mountain King
-  - The Legend of Zelda: Twilight Princess
+  - "The Legend of Zelda: Twilight Princess"
   - Rocky
 title-cards:
   - episode-92.png

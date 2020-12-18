@@ -20,9 +20,9 @@ short_platforms:
   - TG-16
   - Sega Saturn
 games:
-  - Street Fighter 2010: The Final Fight
+  - "Street Fighter 2010: The Final Fight"
   - Fighting Street
-  - Street Fighter: The Movie
+  - "Street Fighter: The Movie"
 title-cards:
   - episode-85.jpg
 ---

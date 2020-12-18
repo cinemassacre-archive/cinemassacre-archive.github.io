@@ -24,8 +24,8 @@ short_platforms:
 games:
   - The Bugs Bunny Crazy Castle
   - The Bugs Bunny Crazy Castle 2
-  - Bugs Bunny: Crazy Castle 3
-  - Bugs Bunny: Crazy Castle 4
+  - "Bugs Bunny: Crazy Castle 3"
+  - "Bugs Bunny: Crazy Castle 4"
   - Woody Woodpecker in Crazy Castle 5
 title-cards:
   - episode-75.jpg

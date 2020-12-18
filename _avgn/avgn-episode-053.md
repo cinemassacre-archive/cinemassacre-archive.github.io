@@ -20,9 +20,9 @@ short_platforms:
   - Gameboy
   - Genesis
 games:
-  - Batman: Return of the Joker (NES)
-  - Batman: Return of the Joker (Gameboy)
-  - Batman: Revenge of the Joker
+  - "Batman: Return of the Joker (NES)"
+  - "Batman: Return of the Joker (Gameboy)"
+  - "Batman: Revenge of the Joker"
 title-cards:
   - episode-53.png
 ---

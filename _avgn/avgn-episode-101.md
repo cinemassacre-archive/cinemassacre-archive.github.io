@@ -29,9 +29,9 @@ games:
   - Hook
   - Jurassic Park (NES)
   - Jurassic Park (Genesis)
-  - Jurassic Park: Rampage Edition
+  - "Jurassic Park: Rampage Edition"
   - Jurassic Park (SNES)
-  - Jurassic Park 2: The Chaos Continues
+  - "Jurassic Park 2: The Chaos Continues"
   - Jurassic Park (Sega CD)
   - Jurassic Park Interactive
   - Alien's Return (UFI und sein gefährlicher Einsatz)

@@ -25,7 +25,7 @@ games:
   - Exodus
   - Joshua
   - Bible Adventures
-  - King of Kings: The Early Years
+  - "King of Kings: The Early Years"
 ---
 
 <p class="yt-description">YouTube description:</p>

@@ -20,11 +20,11 @@ short_platforms:
   - Gameboy
   - SNES
 games:
-  - Godzilla: Monster of Monsters
-  - Godzilla 2: War of the Monsters
+  - "Godzilla: Monster of Monsters"
+  - "Godzilla 2: War of the Monsters"
   - Godzilla
   - Super Godzilla
-  - Godzilla: Kaijuu Daikessen (Famicom)
+  - "Godzilla: Kaijuu Daikessen (Famicom)"
 title-cards:
   - episode-77.jpg
 ---

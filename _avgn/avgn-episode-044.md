@@ -18,7 +18,7 @@ games:
   - Space Battle
   - Mission X
   - Utopia
-  - Masters of the Universe: The Power of He-Man
+  - "Masters of the Universe: The Power of He-Man"
   - Vectron
   - Tron Deadly Discs
   - Thin Ice

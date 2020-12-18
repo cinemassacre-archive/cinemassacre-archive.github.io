@@ -17,7 +17,7 @@ short_platforms:
 games:
   - X-Men
   - Marvel Heroes
-  - IWL: Interstellar Wrestling League
+  - "IWL: Interstellar Wrestling League"
   - Ben 10
 ---
 

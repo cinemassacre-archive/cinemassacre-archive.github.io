@@ -15,7 +15,7 @@ platforms:
 short_platforms:
   - Saturn
 games:
-  - The Crow: City of Angels
+  - "The Crow: City of Angels"
 ---
 
 <p class="yt-description">YouTube description:</p>

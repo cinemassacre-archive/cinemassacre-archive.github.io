@@ -19,8 +19,8 @@ short_platforms:
   - PS2
   - N-Gage
 games:
-  - Tomb Raider: Chronicles
-  - Tomb Raider: The Angel of Darkness
+  - "Tomb Raider: Chronicles"
+  - "Tomb Raider: The Angel of Darkness"
   - Tomb Raider
 ---
 

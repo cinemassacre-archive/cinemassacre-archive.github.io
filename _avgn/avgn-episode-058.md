@@ -21,7 +21,7 @@ short_platforms:
 games:
   - Mary Shelley's Frankenstein
   - The Adventures of Dr. Franken
-  - Frankenstein: The Monster Returns
+  - "Frankenstein: The Monster Returns"
 title-cards:
   - episode-58.jpg
 ---
