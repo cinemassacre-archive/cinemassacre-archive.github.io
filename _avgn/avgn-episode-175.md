@@ -15,7 +15,7 @@ platforms:
 short_platforms:
   - N64
 games:
-  - The Legend of Zelda: Majora's Mask
+  - "The Legend of Zelda: Majora's Mask"
 ---
 
 <p class="yt-description">YouTube description:</p>
