@@ -18,3 +18,7 @@ thumbnails:
 games: 
   - Ecco the Dolphin
 ---
+
+<p class="yt-description">YouTube description:</p>
+
+Angry Video Game Nerd (AVGN) episode 183: Ecco the Dolphin. Ecco is an action-adventure game originally developed by Ed Annunziata and Novotrade International for the Sega Genesis and published by Sega in 1992. The original game followed the exploits of a young dolphin named Ecco as he searched the seas, and eventually time itself, for his missing pod. The game is known for being super unique with a great art style, but it's also known for being hard, frustrating, and unfair.
