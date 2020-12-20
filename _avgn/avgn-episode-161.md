@@ -10,4 +10,17 @@ video_info:
 release_date: 2018-10-12
 mike_notes:
 toggle: off
+platforms:
+  - Sega Genesis
+  - Sega Saturn
+short_platforms:
+  - Genesis
+  - Saturn
+games:
+  - Super Hydlide
+  - Virtual Hydlide
 ---
+
+<p class="yt-description">YouTube description:</p>
+
+The Nerd returns to the Hydlide franchise with Super Hydlide for the Sega Genesis and Virtual Hydlide for the Sega Saturn. This is Angry Videogame Nerd episode 161.

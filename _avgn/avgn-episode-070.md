@@ -11,6 +11,24 @@ video_info:
 release_date: 2009-05-19
 mike_notes:
 toggle: off
+platforms:
+  - Nintendo Entertainment System
+  - Super Nintendo Entertainment System
+  - Sega CD
+short_platforms:
+  - NES
+  - SNES
+  - Sega CD
+games:
+  - The Terminator (NES)
+  - The Terminator (SNES)
+  - The Terminator (Sega CD)
 title-cards:
   - episode-70.jpg
 ---
+
+<p class="yt-description">YouTube description:</p>
+
+The Nerd attempts to terminate some more bad games in his reviews, as he looks at a selection of NES, SNES, and Sega CD games, based on The Terminator.
+
+This is Angry Videogame Nerd episode 70

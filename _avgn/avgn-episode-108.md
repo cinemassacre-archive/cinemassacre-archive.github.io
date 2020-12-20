@@ -10,4 +10,16 @@ video_info:
 release_date: 2012-10-24
 mike_notes:
 toggle: off
+platforms:
+  - Nintendo Entertainment System
+short_platforms:
+  - NES
+games:
+  - Ghosts N' Goblins
 ---
+
+<p class="yt-description">YouTube description:</p>
+
+Ghosts N' Goblins is regarded as one of the more difficult games in the NES library. Ghosts N' Goblins allows the player to control a knight on a perilous journey to rescue the princess, battling zombies, ghouls and demons on the way. Follow the Nerd in this episode as he sacrifices his sanity to save the princess and to be able to say, "I beat Ghosts N' Goblins"!
+
+This is Angry Videogame Nerd episode 108

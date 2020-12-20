@@ -10,4 +10,16 @@ video_info:
 release_date: 2014-12-18
 mike_notes:
 toggle: off
+platforms:
+  - Nintendo Entertainment System
+short_platforms:
+  - NES
+games:
+  - Lethal Weapon
 ---
+
+<p class="yt-description">YouTube description:</p>
+
+For the eighth day of his Christmas, the Nerd finds his weapons against bad games are going dull, as he reviews a NES game based upon Lethal Weapon.
+
+This is Angry Videogame Nerd episode 129.

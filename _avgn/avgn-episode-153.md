@@ -10,4 +10,14 @@ video_info:
 release_date: 2017-12-06
 mike_notes:
 toggle: off
+platforms:
+  - Nintendo GameCube
+short_platforms:
+  - GameCube
+games:
+  - Charlie's Angels
 ---
+
+<p class="yt-description">YouTube description:</p>
+
+The Nerd won't be making a call to Charlie's Angels anytime soon, as he plays a bad GameCube game based on them.

@@ -10,4 +10,10 @@ video_info:
 release_date: 2017-04-20
 mike_notes:
 toggle: off
+platforms:
+  - Xbox 360
+short_platforms:
+  - X360
+games:
+  - Sonic the Hedgehog
 ---
