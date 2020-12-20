@@ -10,4 +10,11 @@ video_info:
 release_date: 2020-09-30
 mike_notes:
 toggle: off
+platforms: 
+  - Sega Genesis
+short_platforms:
+  - Genesis
+thumbnails: 
+games: 
+  - Ecco the Dolphin
 ---
