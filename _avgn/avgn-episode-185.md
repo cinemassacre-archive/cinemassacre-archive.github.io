@@ -6,7 +6,7 @@ episode: 185
 title: "The Legend of Kage"
 permalink: /avgn/episode-185
 video_info:
-  - youtube;YouTube;
+  - youtube;YouTube;2zYLntVHGRw
 release_date: 2020-11-13
 mike_notes:
 toggle: off

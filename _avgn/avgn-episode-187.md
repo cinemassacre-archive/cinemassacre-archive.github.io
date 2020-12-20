@@ -6,7 +6,7 @@ episode: 187
 title: "The Simpsons: Bartman Meets Radioactive Man"
 permalink: /avgn/episode-187
 video_info:
-  - youtube;YouTube;
+  - youtube;YouTube;hH_2gfxCBQk
 release_date: 2020-12-15
 mike_notes:
 toggle: off

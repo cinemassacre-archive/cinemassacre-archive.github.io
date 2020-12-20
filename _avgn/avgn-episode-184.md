@@ -6,7 +6,7 @@ episode: 184
 title: "Countdown Vampires"
 permalink: /avgn/episode-184
 video_info:
-  - youtube;YouTube;
+  - youtube;YouTube;AtbhSRCR7S0
 release_date: 2020-10-29
 mike_notes:
 toggle: off
